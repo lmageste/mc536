@@ -1,0 +1,81 @@
+caquexia
+perda de apetite
+perda de peso
+ganho de peso
+boca seca
+malaise
+astenia
+fraqueza muscular
+pyrexia
+icterícia
+fadiga
+dor
+dor abdominal
+dor no peito
+dispareunia
+vaginismo
+bruising
+epistaxe
+tremor
+convulsões
+cãibra muscular
+paralisia
+tinnitus
+tontura / vertigem
+síncope
+incontinência fecal
+cataplexia
+hipotermia
+hipertermia
+ansiedade
+ataxia
+catatonia
+disartria
+sonolência
+insônia
+amaurosis fugax
+visão embaçada
+visão dupla
+midríase/miose
+nistagmo
+anorexia
+inchaço
+eructação
+hematochezia
+constipação
+diarreia
+disfagia
+dispepsia
+flatulência
+náusea
+pirose
+vômitos
+dor do peito
+claudicação
+palpitação
+taquicardia
+bradicardia
+arritmia
+reticulocitose
+macrocitose
+Urológicos
+disúria
+poliúria
+hematúria
+frequência urinária
+incontinência urinária
+impotência
+hipoventilação
+hiperventilação
+bradipneia
+apneia
+tosse
+dispneia
+hemoptise
+taquipnéia
+Brotoeja
+Prurido
+edema
+anasarca
+urticária
+parestesia

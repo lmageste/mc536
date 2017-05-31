@@ -1,0 +1,2046 @@
+ Cólera 
+ Febres Tifóide e Paratifóide 
+ Outras Infecções Por Salmonella 
+ Shiguelose 
+ Outras Infecções Intestinais Bacterianas 
+ Outras Intoxicações Alimentares Bacterianas, Não Classificadas em Outra Parte 
+ Amebíase 
+ Outras Doenças Intestinais Por Protozoários 
+ Infecções Intestinais Virais, Outras e as Não Especificadas 
+ Diarréia e Gastroenterite de Origem Infecciosa Presumível 
+ Tuberculose Respiratória, Com Confirmação Bacteriológica e Histológica 
+ Tuberculose Das Vias Respiratórias, Sem Confirmação Bacteriológica ou Histológica 
+ Tuberculose do Sistema Nervoso 
+ Tuberculose de Outros Órgãos 
+ Tuberculose Miliar 
+ Peste 
+ Tularemia 
+ Carbúnculo 
+ Brucelose 
+ Mormo e Melioidose 
+ Febres Transmitidas Por Mordedura de Rato 
+ Erisipelóide 
+ Leptospirose 
+ Outras Doenças Bacterianas Zoonóticas Não Classificadas em Outra Parte 
+ Hanseníase (doença de Hansen) (lepra) 
+ Infecções Devidas a Outras Micobactérias 
+ Listeriose (listeríase) 
+ Tétano do Recém-nascido (neonatal) 
+ Tétano Obstétrico 
+ Outros Tipos de Tétano 
+ Difteria 
+ Coqueluche 
+ Escarlatina 
+ Infecção Meningogócica 
+ Septicemia Estreptocócica 
+ Outras Septicemias 
+ Actinomicose 
+ Nocardiose 
+ Bartonelose 
+ Erisipela 
+ Outras Doenças Bacterianas Não Classificadas em Outra Parte 
+ Infecção Bacteriana de Localização Não Especificada 
+ Sífilis Congênita 
+ Sífilis Precoce 
+ Sífilis Tardia 
+ Outras Formas e as Não Especificadas da Sífilis 
+ Infecção Gonocócica 
+ Linfogranuloma (venéreo) Por Clamídia 
+ Outras Infecções Causadas Por Clamídias Transmitidas Por Via Sexual 
+ Cancro Mole 
+ Granuloma Inguinal 
+ Tricomoníase 
+ Infecções Anogenitais Pelo Vírus do Herpes (herpes Simples) 
+ Outras Doenças de Transmissão Predominantemente Sexual, Não Classificadas em Outra Parte 
+ Doenças Sexualmente Transmitidas, Não Especificadas 
+ Sífilis Não-venérea 
+ Bouba 
+ Pinta (carate) 
+ Febres Recorrentes (Borrelioses) 
+ Outras Infecções Por Espiroquetas 
+ Infecções Causadas Por Clamídia Psittaci 
+ Tracoma 
+ Outras Doenças Causadas Por Clamídias 
+ Tifo Exantemático 
+ Febre Maculosa (rickettsioses Transmitidas Por Carrapatos) 
+ Febre Q 
+ Outras Rickettsioses 
+ Poliomielite Aguda 
+ Infecções Por Vírus Atípicos do Sistema Nervoso Central 
+ Raiva 
+ Encefalite Por Vírus Transmitidos Por Mosquitos 
+ Encefalite Por Vírus Transmitido Por Carrapatos 
+ Outras Encefalites Virais, Não Classificadas em Outra Parte 
+ Encefalite Viral, Não Especificada 
+ Meningite Viral 
+ Outras Infecções Virais do Sistema Nervoso Central Não Classificadas em Outra Parte 
+ Infecções Virais Não Especificadas do Sistema Nervoso Central 
+ Dengue (dengue Clássico) 
+ Febre Hemorrágica Devida ao Vírus do Dengue 
+ Outras Febres Virais Transmitidas Por Mosquitos 
+ Outras Febres Por Vírus Transmitidas Por Artrópodes Não Classificadas em Outra Parte 
+ Febre Viral Transmitida Por Artrópodes, Não Especificada 
+ Febre Amarela 
+ Febre Hemorrágica Por Arenavírus 
+ Outras Febres Hemorrágicas Por Vírus, Não Classificadas em Outra Parte 
+ Febres Hemorrágicas Virais Não Especificadas 
+ Infecções Pelo Vírus do Herpes (herpes Simples) 
+ Varicela (Catapora) 
+ Herpes Zoster (Zona) 
+ Varíola 
+ Varíola Dos Macacos (Monkeypox) 
+ Sarampo 
+ Rubéola 
+ Verrugas de Origem Viral 
+ Outras Infecções Virais Caracterizadas Por Lesões da Pele e Das Membranas Mucosas, Não Classificadas em Outra Parte 
+ Infecção Viral Não Especificada Caracterizada Por Lesões da Pele e Membranas Mucosas 
+ Hepatite Aguda A 
+ Hepatite Aguda B 
+ Outras Hepatites Virais Agudas 
+ Hepatite Viral Crônica 
+ Hepatite Viral Não Especificada 
+ Doença Pelo Vírus da Imunodeficiência Humana (HIV), Resultando em Doenças Infecciosas e Parasitárias 
+ Doença Pelo Vírus da Imunodeficiência Humana (HIV), Resultando em Neoplasias Malignas 
+ Doença Pelo Vírus da Imunodeficiência Humana (HIV) Resultando em Outras Doenças Especificadas 
+ Doença Pelo Vírus da Imunodeficiência Humana (HIV) Resultando em Outras Doenças 
+ Doença Pelo Vírus da Imunodeficiência Humana (HIV) Não Especificada 
+ Doença Por Citomegalovírus 
+ Caxumba (Parotidite Epidêmica) 
+ Mononucleose Infecciosa 
+ Conjuntivite Viral 
+ Outras Doenças Por Vírus Não Classificada em Outra Parte 
+ Doenças Por Vírus, de Localização Não Especificada 
+ Dermatofitose 
+ Outras Micoses Superficiais 
+ Candidíase 
+ Coccidioidomicose 
+ Histoplasmose 
+ Blastomicose 
+ Paracoccidioidomicose 
+ Esporotricose 
+ Cromomicose e Abscesso Feomicótico 
+ Aspergilose 
+ Criptococose 
+ Zigomicose 
+ Micetoma 
+ Outras Micoses, Não Classificadas em Outra Parte 
+ Micose Não Especificada 
+ Malária Por Plasmodium Falciparum 
+ Malária Por Plasmodium Vivax 
+ Malária Por Plasmodium Malariae 
+ Outras Formas de Malária Confirmadas Por Exames Parasitológicos 
+ Malária Não Especificada 
+ Leishmaniose 
+ Tripanossomíase Africana 
+ Doença de Chagas 
+ Toxoplasmose 
+ Pneumocistose 
+ Outras Doenças Devidas a Protozoários, Não Classificadas em Outra Parte 
+ Doença Não Especificada Devida a Protozoários 
+ Esquistossomose (bilharziose) (Schistosomíase) 
+ Outras Infestações Por Trematódeos 
+ Equinococose 
+ Infestação Por Taenia 
+ Cisticercose 
+ Difilobotríase e Esparganose 
+ Outras Infestações Por Cestóides 
+ Dracontíase 
+ Oncocercose 
+ Filariose 
+ Triquinose 
+ Ancilostomíase 
+ Ascaridíase 
+ Estrongiloidíase 
+ Tricuríase 
+ Oxiuríase 
+ Outras Helmintíases Intestinais, Não Classificadas em Outra Parte 
+ Parasitose Intestinal Não Especificada 
+ Outras Helmintíases 
+ Pediculose e Ftiríase 
+ Escabiose (sarna) 
+ Miíase 
+ Outras Infestações 
+ Doença Parasitária Não Especificada 
+ Seqüelas de Tuberculose 
+ Seqüelas de Poliomielite 
+ Seqüelas de Hanseníase (lepra) 
+ Seqüelas de Outras Doenças Infecciosas e Parasitárias e Das Não Especificadas 
+ Estreptococos e Estafilococos Como Causa de Doenças Classificadas em Outros Capítulos 
+ Outros Agentes Bacterianos, Como Causa de Doenças Classificadas em Outros Capítulos 
+ Vírus Como Causa de Doenças Classificadas em Outros Capítulos 
+ Doenças Infecciosas, Outras e as Não Especificadas 
+ Neoplasia Maligna do Lábio 
+ Neoplasia Maligna da Base da Língua 
+ Neoplasia Maligna de Outras Partes e de Partes Não Especificadas da Língua 
+ Neoplasia Maligna da Gengiva 
+ Neoplasia Maligna do Assoalho da Boca 
+ Neoplasia Maligna do Palato 
+ Neoplasia Maligna de Outras Partes e de Partes Não Especificadas da Boca 
+ Neoplasia Maligna da Glândula Parótida 
+ Neoplasia Maligna de Outras Glândulas Salivares Maiores e as Não Especificadas 
+ Neoplasia Maligna da Amígdala 
+ Neoplasia Maligna da Orofaringe 
+ Neoplasia Maligna da Nasofaringe 
+ Neoplasia Maligna do Seio Piriforme 
+ Neoplasia Maligna da Hipofaringe 
+ Neoplasia Maligna de Outras Localizações e de Localizações Mal Definida, do Lábio, Cavidade Oral e Faringe 
+ Neoplasia Maligna do Esôfago 
+ Neoplasia Maligna do Estômago 
+ Neoplasia Maligna do Intestino Delgado 
+ Neoplasia Maligna do Cólon 
+ Neoplasia Maligna da Junção Retossigmóide 
+ Neoplasia Maligna do Reto 
+ Neoplasia Maligna do Ânus e do Canal Anal 
+ Neoplasia Maligna do Fígado e Das Vias Biliares Intra-hepáticas 
+ Neoplasia Maligna da Vesícula Biliar 
+ Neoplasia Maligna de Outras Partes, e de Partes Não Especificadas Das Vias Biliares 
+ Neoplasia Maligna do Pâncreas 
+ Neoplasia Maligna de Outros Órgãos Digestivos e de Localizações Mal Definidas no Aparelho Digestivo 
+ Neoplasia Maligna da Cavidade Nasal e do Ouvido Médio 
+ Neoplasia Maligna Dos Seios da Face 
+ Neoplasia Maligna da Laringe 
+ Neoplasia Maligna da Traquéia 
+ Neoplasia Maligna Dos Brônquios e Dos Pulmões 
+ Neoplasia Maligna do Timo 
+ Neoplasia Maligna do Coração, Mediastino e Pleura 
+ Neoplasia Maligna de Outras Localizações e de Localizações Mal Definidas do Aparelho Respiratório e Dos Órgãos Intratorácicos 
+ Neoplasia Maligna Dos Ossos e Cartilagens Articulares Dos Membros 
+ Neoplasia Maligna Dos Ossos e Das Cartilagens Articulares de Outras Localizações e de Localizações Não Especificadas 
+ Melanoma Maligno da Pele 
+ Outras Neoplasias Malignas da Pele 
+ Mesotelioma 
+ Sarcoma de Kaposi 
+ Neoplasia Maligna Dos Nervos Periféricos e do Sistema Nervoso Autônomo 
+ Neoplasia Maligna Dos Tecidos Moles do Retroperitônio e do Peritônio 
+ Neoplasia Maligna do Tecido Conjuntivo e de Outros Tecidos Moles 
+ Neoplasia Maligna da Mama 
+ Neoplasia Maligna da Vulva 
+ Neoplasia Maligna da Vagina 
+ Neoplasia Maligna do Colo do Útero 
+ Neoplasia Maligna do Corpo do Útero 
+ Neoplasia Maligna do Útero, Porção Não Especificada 
+ Neoplasia Maligna do Ovário 
+ Neoplasia Maligna de Outros Órgãos Genitais Femininos e Dos Não Especificados 
+ Neoplasia Maligna da Placenta 
+ Neoplasia Maligna do Pênis 
+ Neoplasia Maligna da Próstata 
+ Neoplasia Maligna Dos Testículos 
+ Neoplasia Maligna de Outros Órgãos Genitais Masculinos e Dos Não Especificados 
+ Neoplasia Maligna do Rim, Exceto Pelve Renal 
+ Neoplasia Maligna da Pelve Renal 
+ Neoplasia Maligna Dos Ureteres 
+ Neoplasia Maligna da Bexiga 
+ Neoplasia Maligna de Outros Órgãos Urinários e Dos Não Especificados 
+ Neoplasia Maligna do Olho e Anexos 
+ Neoplasia Maligna Das Meninges 
+ Neoplasia Maligna do Encéfalo 
+ Neoplasia Maligna da Medula Espinhal, Dos Nervos Cranianos e de Outras Partes do Sistema Nervoso Central 
+ Neoplasia Maligna da Glândula Tireóide 
+ Neoplasia Maligna da Glândula Supra-renal (Glândula Adrenal) 
+ Neoplasia Maligna de Outras Glândulas Endócrinas e de Estruturas Relacionadas 
+ Neoplasia Maligna de Outras Localizações e de Localizações Mal Definidas 
+ Neoplasia Maligna Secundária e Não Especificada Dos Gânglios Linfáticos 
+ Neoplasia Maligna Secundária Dos Órgãos Respiratórios e Digestivos 
+ Neoplasia Maligna Secundária de Outras Localizações 
+ Neoplasia Maligna, Sem Especificação de Localização 
+ Doença de Hodgkin 
+ Linfoma Não-Hodgkin, Folicular (nodular) 
+ Linfoma Não-Hodgkin Difuso 
+ Linfomas de Células T Cutâneas e Periféricas 
+ Linfoma Não-Hodgkin de Outros Tipos e de Tipo Não Especificado 
+ Doenças Imunoproliferativas Malignas 
+ Mieloma Múltiplo e Neoplasias Malignas de Plasmócitos 
+ Leucemia Linfóide 
+ Leucemia Mielóide 
+ Leucemia Monocítica 
+ Outras Leucemias de Células de Tipo Especificado 
+ Leucemia de Tipo Celular Não Especificado 
+ Outras Neoplasias Malignas e as Não Especificadas Dos Tecidos Linfático, Hematopoético e Tecidos Correlatos 
+ Neoplasias Malignas de Localizações Múltiplas Independentes (primárias) 
+ Carcinoma in Situ da Cavidade Oral, do Esôfago e do Estômago 
+ Carcinoma in Situ de Outros Órgãos Digestivos 
+ Carcinoma in Situ do Ouvido Médio e do Aparelho Respiratório 
+ Melanoma in Situ 
+ Carcinoma in Situ da Pele 
+ Carcinoma in Situ da Mama 
+ Carcinoma in Situ do Colo do Útero (cérvix) 
+ Carcinoma in Situ de Outros Órgãos Genitais e Dos Não Especificados 
+ Carcinoma in Situ de Outras Localizações e Das Não Especificadas 
+ Neoplasia Benigna da Boca e da Faringe 
+ Neoplasia Benigna de Glândulas Salivares Maiores 
+ Neoplasia Benigna do Cólon, Reto, Canal Anal e Ânus 
+ Neoplasia Benigna de Outras Partes e de Partes Mal Definidas do Aparelho Digestivo 
+ Neoplasia Benigna do Ouvido Médio e do Aparelho Respiratório 
+ Neoplasia Benigna de Outros Órgãos Intratorácicos e Dos Não Especificados 
+ Neoplasia Benigna de Osso e de Cartilagem Articular 
+ Neoplasia Lipomatosa Benigna 
+ Hemangioma e Linfangioma de Qualquer Localização 
+ Neoplasia Benigna de Tecido Mesotelial 
+ Neoplasia Benigna de Tecido Mole do Retroperitônio e do Peritônio 
+ Outras Neoplasias Benignas do Tecido Conjuntivo e de Outros Tecidos Moles 
+ Nevos Melanocíticos 
+ Outras Neoplasias Benignas da Pele 
+ Neoplasia Benigna da Mama 
+ Leiomioma do Útero 
+ Outras Neoplasias Benignas do Útero 
+ Neoplasia Benigna do Ovário 
+ Neoplasia Benigna de Outros Órgãos Genitais Femininos e de Órgãos Não Especificados 
+ Neoplasia Benigna Dos Órgãos Genitais Masculinos 
+ Neoplasia Benigna Dos Órgãos Urinários 
+ Neoplasia Benigna do Olho e Anexos 
+ Neoplasia Benigna Das Meninges 
+ Neoplasia Benigna do Encéfalo e de Outras Partes do Sistema Nervoso Central 
+ Neoplasia Benigna da Glândula Tireóide 
+ Neoplasia Benigna de Outras Glândulas Endócrinas e Das Não Especificadas 
+ Neoplasia Benigna de Outras Localizações e de Localizações Não Especificadas 
+ Neoplasia de Comportamento Incerto ou Desconhecido da Cavidade Oral e Dos Órgãos Digestivos 
+ Neoplasia de Comportamento Incerto ou Desconhecido do Ouvido Médio e Dos Órgãos Respiratórios e Intratorácicos 
+ Neoplasia de Comportamento Incerto ou Desconhecido Dos Órgãos Genitais Femininos 
+ Neoplasia de Comportamento Incerto ou Desconhecido Dos Órgãos Genitais Masculinos 
+ Neoplasia de Comportamento Incerto ou Desconhecido Dos Órgãos Urinários 
+ Neoplasia de Comportamento Incerto ou Desconhecido Das Meninges 
+ Neoplasia de Comportamento Incerto ou Desconhecido do Encéfalo e do Sistema Nervoso Central 
+ Neoplasia de Comportamento Incerto ou Desconhecido Das Glândulas Endócrinas 
+ Policitemia Vera 
+ Síndromes Mielodisplásicas 
+ Outras Neoplasias de Comportamento Incerto ou Desconhecido Dos Tecidos Linfático, Hematopoético e Tecidos Correlatos 
+ Neoplasia de Comportamento Incerto ou Desconhecido de Outras Localizações e de Localizações Não Especificadas 
+ Anemia Por Deficiência de Ferro 
+ Anemia Por Deficiência de Vitamina B12 
+ Anemia Por Deficiência de Folato 
+ Outras Anemias Nutricionais 
+ Anemia Devida a Transtornos Enzimáticos 
+ Talassemia 
+ Transtornos Falciformes 
+ Outras Anemias Hemolíticas Hereditárias 
+ Anemia Hemolítica Adquirida 
+ Aplasia Pura da Série Vermelha, Adquirida (eritroblastopenia) 
+ Outras Anemias Aplásticas 
+ Anemia Aguda Pós-hemorrágica 
+ Anemia em Doenças Crônicas Classificadas em Outra Parte 
+ Outras Anemias 
+ Coagulação Intravascular Disseminada (síndrome de Desfibrinação) 
+ Deficiência Hereditária do Fator VIII 
+ Deficiência Hereditária do Fator IX 
+ Outros Defeitos da Coagulação 
+ Púrpura e Outras Afecções Hemorrágicas 
+ Agranulocitose 
+ Transtornos Funcionais Dos Neutrófilos Polimorfonucleares 
+ Outros Transtornos Dos Glóbulos Brancos 
+ Doenças do Baço 
+ Metemoglobinemia 
+ Outras Doenças do Sangue e Dos Órgãos Hematopoéticos 
+ Algumas Doenças Que Envolvem o Tecido Linforreticular e o Sistema Reticulohistiocítico 
+ Outros Transtornos do Sangue e Dos Órgãos Hematopoéticos em Doenças Classificadas em Outra Parte 
+ Imunodeficiência Com Predominância de Defeitos de Anticorpos 
+ Deficiências Imunitárias Combinadas 
+ "Imunodeficiência Associada Com Outros Defeitos ""major""" 
+ Imunodeficiência Comum Variável 
+ Outras Imunodeficiências 
+ Sarcoidose 
+ Outros Transtornos Que Comprometem o Mecanismo Imunitário Não Classificados em Outra Parte 
+ Síndrome de Deficiência Congênita de Iodo 
+ Transtornos Tireoidianos e Afecções Associadas, Relacionados à Deficiência de Iodo 
+ Hipotireoidismo Subclínico Por Deficiência de Iodo 
+ Outros Hipotireoidismos 
+ Outros Bócios Não-tóxicos 
+ Tireotoxicose (hipertireoidismo) 
+ Tireoidite 
+ Outros Transtornos da Tireóide 
+ Diabetes Mellitus Insulino-dependente 
+ Diabetes Mellitus Não-insulino-dependente 
+ Diabetes Mellitus Relacionado Com a Desnutrição 
+ Outros Tipos Especificados de Diabetes Mellitus 
+ Diabetes Mellitus Não Especificado 
+ Coma Hipoglicêmico Não-diabético 
+ Outros Transtornos da Secreção Pancreática Interna 
+ Hipoparatireoidismo 
+ Hiperparatireoidismo e Outros Transtornos da Glândula Paratireóide 
+ Hiperfunção da Hipófise 
+ Hipofunção e Outros Transtornos da Hipófise 
+ Síndrome de Cushing 
+ Transtornos Adrenogenitais 
+ Hiperaldosteronismo 
+ Outros Transtornos da Glândula Supra-renal 
+ Disfunção Ovariana 
+ Disfunção Testicular 
+ Transtornos da Puberdade Não Classificados em Outra Parte 
+ Disfunção Poliglandular 
+ Doenças do Timo 
+ Outros Transtornos Endócrinos 
+ Transtornos Das Glândulas Endócrinas em Doenças Classificadas em Outra Parte 
+ Kwashiorkor 
+ Marasmo Nutricional 
+ Kwashiorkor Marasmático 
+ Desnutrição Protéico-calórica Grave Não Especificada 
+ Desnutrição Protéico-calórica de Graus Moderado e Leve 
+ Atraso do Desenvolvimento Devido à Desnutrição Protéico-calórica 
+ Desnutrição Protéico-calórica Não Especificada 
+ Deficiência de Vitamina A 
+ Deficiência de Tiamina 
+ Deficiência de Niacina (pelagra) 
+ Deficiência de Outras Vitaminas do Grupo B 
+ Deficiência de Ácido Ascórbico 
+ Deficiência de Vitamina D 
+ Outras Deficiências Vitamínicas 
+ Deficiência de Cálcio da Dieta 
+ Deficiência de Selênio da Dieta 
+ Deficiência de Zinco da Dieta 
+ Deficiência de Outros Elementos Nutrientes 
+ Outras Deficiências Nutricionais 
+ Seqüelas de Desnutrição e de Outras Deficiências Nutricionais 
+ Adiposidade Localizada 
+ Obesidade 
+ Outras Formas de Hiperalimentação 
+ Seqüelas de Hiperalimentação 
+ Distúrbios do Metabolismo de Aminoácidos Aromáticos 
+ Distúrbios do Metabolismo de Aminoácidos de Cadeia Ramificada e do Metabolismo Dos Ácidos Graxos 
+ Outros Distúrbios do Metabolismo de Aminoácidos 
+ Intolerância à Lactose 
+ Outros Distúrbios do Metabolismo de Carboidratos 
+ Distúrbios do Metabolismo de Esfingolípides e Outros Distúrbios de Depósito de Lípides 
+ Distúrbios do Metabolismo do Glicosaminoglicano 
+ Distúrbios do Metabolismo de Glicoproteínas 
+ Distúrbios do Metabolismo de Lipoproteínas e Outras Lipidemias 
+ Distúrbios do Metabolismo de Purina e Pirimidina 
+ Distúrbios do Metabolismo da Porfirina e da Bilirrubina 
+ Distúrbios do Metabolismo de Minerais 
+ Fibrose Cística 
+ Amiloidose 
+ Depleção de Volume 
+ Outros Transtornos do Equilíbrio Hidroeletrolítico e Ácido-básico 
+ Outros Distúrbios Metabólicos 
+ Transtornos Endócrinos e Metabólicos Pós-procedimentos, Não Classificados em Outra Parte 
+ Transtornos Nutricionais e Metabólicos em Doenças Classificadas em Outra Parte 
+ Demência na Doença de Alzheimer 
+ Demência Vascular 
+ Demência em Outras Doenças Classificadas em Outra Parte 
+ Demência Não Especificada 
+ Síndrome Amnésica Orgânica Não Induzida Pelo Álcool ou Por Outras Substâncias Psicoativas 
+ Delirium Não Induzido Pelo Álcool ou Por Outras Substâncias Psicoativas 
+ Outros Transtornos Mentais Devidos a Lesão e Disfunção Cerebral e a Doença Física 
+ Transtornos de Personalidade e do Comportamento Devidos a Doença, a Lesão e a Disfunção Cerebral 
+ Transtorno Mental Orgânico ou Sintomático Não Especificado 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Álcool 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Opiáceos 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Canabinóides 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Sedativos e Hipnóticos 
+ Transtornos Mentais e Comportamentais Devidos ao Uso da Cocaína 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Outros Estimulantes, Inclusive a Cafeína 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Alucinógenos 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Fumo 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Solventes Voláteis 
+ Transtornos Mentais e Comportamentais Devidos ao Uso de Múltiplas Drogas e ao Uso de Outras Substâncias Psicoativas 
+ Esquizofrenia 
+ Transtorno Esquizotípico 
+ Transtornos Delirantes Persistentes 
+ Transtornos Psicóticos Agudos e Transitórios 
+ Transtorno Delirante Induzido 
+ Transtornos Esquizoafetivos 
+ Outros Transtornos Psicóticos Não-orgânicos 
+ Psicose Não-orgânica Não Especificada 
+ Episódio Maníaco 
+ Transtorno Afetivo Bipolar 
+ Episódios Depressivos 
+ Transtorno Depressivo Recorrente 
+ Transtornos de Humor (afetivos) Persistentes 
+ Outros Transtornos do Humor (afetivos) 
+ Transtorno do Humor (afetivo) Não Especificado 
+ Transtornos Fóbico-ansiosos 
+ Outros Transtornos Ansiosos 
+ Transtorno Obsessivo-compulsivo 
+ "Reações ao ""stress"" Grave e Transtornos de Adaptação" 
+ Transtornos Dissociativos (de Conversão) 
+ Transtornos Somatoformes 
+ Outros Transtornos Neuróticos 
+ Transtornos da Alimentação 
+ Transtornos Não-orgânicos do Sono Devidos a Fatores Emocionais 
+ Disfunção Sexual, Não Causada Por Transtorno ou Doença Orgânica 
+ Transtornos Mentais e Comportamentais Associados ao Puerpério, Não Classificados em Outra Parte 
+ Fatores Psicológicos ou Comportamentais Associados a Doença ou a Transtornos Classificados em Outra Parte 
+ Abuso de Substâncias Que Não Produzem Dependência 
+ Síndromes Comportamentais Associados a Transtornos Das Funções Fisiológicas e a Fatores Físicos, Não Especificadas 
+ Transtornos Específicos da Personalidade 
+ Transtornos Mistos da Personalidade e Outros Transtornos da Personalidade 
+ Modificações Duradouras da Personalidade Não Atribuíveis a Lesão ou Doença Cerebral 
+ Transtornos Dos Hábitos e Dos Impulsos 
+ Transtornos da Identidade Sexual 
+ Transtornos da Preferência Sexual 
+ Transtornos Psicológicos e Comportamentais Associados ao Desenvolvimento Sexual e à Sua Orientação 
+ Outros Transtornos da Personalidade e do Comportamento do Adulto 
+ Transtorno da Personalidade e do Comportamento do Adulto, Não Especificado 
+ Retardo Mental Leve 
+ Retardo Mental Moderado 
+ Retardo Mental Grave 
+ Retardo Mental Profundo 
+ Outro Retardo Mental 
+ Retardo Mental Não Especificado 
+ Transtornos Específicos do Desenvolvimento da Fala e da Linguagem 
+ Transtornos Específicos do Desenvolvimento Das Habilidades Escolares 
+ Transtorno Específico do Desenvolvimento Motor 
+ Transtornos Específicos Misto do Desenvolvimento 
+ Transtornos Globais do Desenvolvimento 
+ Outros Transtornos do Desenvolvimento Psicológico 
+ Transtorno do Desenvolvimento Psicológico Não Especificado 
+ Transtornos Hipercinéticos 
+ Distúrbios de Conduta 
+ Transtornos Mistos de Conduta e Das Emoções 
+ Transtornos Emocionais Com Início Especificamente na Infância 
+ Transtornos do Funcionamento Social Com Início Especificamente Durante a Infância ou a Adolescência 
+ Tiques 
+ Outros Transtornos Comportamentais e Emocionais Com Início Habitualmente Durante a Infância ou a Adolescência 
+ Transtorno Mental Não Especificado em Outra Parte 
+ Meningite Bacteriana Não Classificada em Outra Parte 
+ Meningite em Doenças Bacterianas Classificadas em Outra Parte 
+ Meningite em Outras Doenças Infecciosas e Parasitárias Classificadas em Outra Parte 
+ Meningite Devida a Outras Causas e a Causas Não Especificadas 
+ Encefalite, Mielite e Encefalomielite 
+ Encefalite, Mielite e Encefalomielite em Doenças Classificadas em Outra Parte 
+ Abscesso e Granuloma Intracranianos e Intra-raquidianos 
+ Abscesso e Granuloma Intracranianos e Intraspinais em Doenças Classificadas em Outra Parte 
+ Flebite e Tromboflebite Intracranianas e Intra-raquidianas 
+ Seqüelas de Doenças Inflamatórias do Sistema Nervoso Central 
+ Doença de Huntington 
+ Ataxia Hereditária 
+ Atrofia Muscular Espinal e Síndromes Correlatas 
+ Atrofias Sistêmicas Que Afetam Principalmente o Sistema Nervoso Central em Doenças Classificadas em Outra Parte 
+ Doença de Parkinson 
+ Parkinsonismo Secundário 
+ Parkinsonismo em Doenças Classificadas em Outra Parte 
+ Outras Doenças Degenerativas Dos Gânglios da Base 
+ Distonia 
+ Outras Doenças Extrapiramidais e Transtornos Dos Movimentos 
+ Doenças Extrapiramidais e Transtornos Dos Movimentos em Doenças Classificadas em Outra Parte 
+ Doença de Alzheimer 
+ Outras Doenças Degenerativas do Sistema Nervoso Não Classificadas em Outra Parte 
+ Outros Transtornos Degenerativos do Sistema Nervoso em Doenças Classificadas em Outra Parte 
+ Esclerose Múltipla 
+ Outras Desmielinizações Disseminadas Agudas 
+ Outras Doenças Desmielinizantes do Sistema Nervoso Central 
+ Epilepsia 
+ Estado de Mal Epiléptico 
+ Enxaqueca 
+ Outras Síndromes de Algias Cefálicas 
+ Acidentes Vasculares Cerebrais Isquêmicos Transitórios e Síndromes Correlatas 
+ Síndromes Vasculares Cerebrais Que Ocorrem em Doenças Cerebrovasculares 
+ Distúrbios do Sono 
+ Transtornos do Nervo Trigêmeo 
+ Transtornos do Nervo Facial 
+ Transtornos de Outros Nervos Cranianos 
+ Transtornos Dos Nervos Cranianos em Doenças Classificadas em Outra Parte 
+ Transtornos Das Raízes e Dos Plexos Nervosos 
+ Compressões Das Raízes e Dos Plexos Nervosos em Doenças Classificadas em Outra Parte 
+ Mononeuropatias Dos Membros Superiores 
+ Mononeuropatias Dos Membros Inferiores 
+ Outras Mononeuropatias 
+ Mononeuropatias em Doenças Classificadas em Outra Parte 
+ Neuropatia Hereditária e Idiopática 
+ Polineuropatia Inflamatória 
+ Outras Polineuropatias 
+ Polineuropatia em Doenças Classificadas em Outra Parte 
+ Outros Transtornos do Sistema Nervoso Periférico 
+ Miastenia Gravis e Outros Transtornos Neuromusculares 
+ Transtornos Primários Dos Músculos 
+ Outras Miopatias 
+ Transtornos da Junção Mioneural e Dos Músculos em Doenças Classificadas em Outra Parte 
+ Paralisia Cerebral 
+ Hemiplegia 
+ Paraplegia e Tetraplegia 
+ Outras Síndromes Paralíticas 
+ Transtornos do Sistema Nervoso Autônomo 
+ Hidrocefalia 
+ Encefalopatia Tóxica 
+ Outros Transtornos do Encéfalo 
+ Outros Transtornos do Encéfalo em Doenças Classificadas em Outra Parte 
+ Outras Doenças da Medula Espinal 
+ Outros Transtornos do Sistema Nervoso Central 
+ Transtornos Pós-procedimento do Sistema Nervoso Não Classificados em Outra Parte 
+ Outros Transtornos do Sistema Nervoso Não Classificados em Outra Parte 
+ Outros Transtornos do Sistema Nervoso em Doenças Classificadas em Outra Parte 
+ Hordéolo e Calázio 
+ Outras Inflamações da Pálpebra 
+ Outros Transtornos da Pálpebra 
+ Transtornos da Pálpebra em Doenças Classificadas em Outras Partes 
+ Transtornos do Aparelho Lacrimal 
+ Transtornos da Órbita 
+ Transtornos do Aparelho Lacrimal e da Órbita em Doenças Classificadas em Outra Parte 
+ Conjuntivite 
+ Outros Transtornos da Conjuntiva 
+ Transtornos da Conjuntiva em Doenças Classificadas em Outra Parte 
+ Transtornos da Esclerótica 
+ Ceratite 
+ Cicatrizes e Opacidades da Córnea 
+ Outros Transtornos da Córnea 
+ Transtorno da Esclerótica e da Córnea em Doenças Classificadas em Outra Parte 
+ Iridociclite 
+ Outros Transtornos da Íris e do Corpo Ciliar 
+ Transtornos da Íris e do Corpo Ciliar em Doenças Classificadas em Outra Parte 
+ Catarata Senil 
+ Outras Cataratas 
+ Outros Transtornos do Cristalino 
+ Catarata e Outros Transtornos do Cristalino em Doenças Classificadas em Outra Parte 
+ Inflamação Coriorretiniana 
+ Outros Transtornos da Coróide 
+ Transtornos Coriorretinianos em Doenças Classificadas em Outra Parte 
+ Descolamentos e Defeitos da Retina 
+ Oclusões Vasculares da Retina 
+ Outros Transtornos da Retina 
+ Transtornos da Retina em Doenças Classificadas em Outra Parte 
+ Glaucoma 
+ Glaucoma em Doenças Classificadas em Outra Parte 
+ Transtornos do Humor Vítreo 
+ Transtornos do Globo Ocular 
+ Transtornos do Humor Vítreo e do Globo Ocular em Doenças Classificadas em Outra Parte 
+ Neurite Óptica 
+ Outros Transtornos do Nervo Óptico e Das Vias Ópticas 
+ Transtornos do Nervo Óptico (segundo Par) e Das Vias Ópticas em Doenças Classificadas em Outra Parte 
+ Estrabismo Paralítico 
+ Outros Estrabismos 
+ Outros Transtornos do Movimento Binocular 
+ Transtornos da Refração e da Acomodação 
+ Distúrbios Visuais 
+ Cegueira e Visão Subnormal 
+ Nistagmo e Outros Movimentos Irregulares do Olho 
+ Outros Transtornos do Olho e Anexos 
+ Outros Transtornos do Olho e Anexos em Doenças Classificadas em Outra Parte 
+ Transtornos do Olho e Anexos Pós-procedimento Não Classificados em Outra Parte 
+ Otite Externa 
+ Outros Transtornos do Ouvido Externo 
+ Transtornos do Ouvido Externo em Doenças Classificadas em Outra Parte 
+ Otite Média Não-supurativa 
+ Otite Média Supurativa e as Não Especificadas 
+ Otite Média em Doenças Classificadas em Outra Parte 
+ Salpingite e Obstrução da Trompa de Eustáquio 
+ Outros Transtornos da Trompa de Eustáquio 
+ Mastoidite e Afecções Correlatas 
+ Colesteatoma do Ouvido Médio 
+ Perfuração da Membrana do Tímpano 
+ Outros Transtornos da Membrana do Tímpano 
+ Outros Transtornos do Ouvido Médio e da Mastóide 
+ Outros Transtornos do Ouvido Médio e da Mastóide em Doenças Classificadas em Outra Parte 
+ Otosclerose 
+ Transtornos da Função Vestibular 
+ Síndromes Vertiginosas em Doenças Classificadas em Outra Parte 
+ Outros Transtornos do Ouvido Interno 
+ Perda de Audição Por Transtorno de Condução Eou Neuro-sensorial 
+ Outras Perdas de Audição 
+ Otalgia e Secreção Auditiva 
+ Outros Transtornos do Ouvido Não Classificados em Outra Parte 
+ Outros Transtornos do Ouvido em Doenças Classificadas em Outra Parte 
+ Transtornos do Ouvido e da Apófise Mastóide Pós-procedimentos, Não Classificados em Outra Parte 
+ Febre Reumática Sem Menção de Comprometimento do Coração 
+ Febre Reumática Com Comprometimento do Coração 
+ Coréia Reumática 
+ Doenças Reumáticas da Valva Mitral 
+ Doenças Reumáticas da Valva Aórtica 
+ Doenças Reumáticas da Valva Tricúspide 
+ Doenças de Múltiplas Valvas 
+ Outras Doenças Reumáticas do Coração 
+ Hipertensão Essencial (primária) 
+ Doença Cardíaca Hipertensiva 
+ Doença Renal Hipertensiva 
+ Doença Cardíaca e Renal Hipertensiva 
+ Hipertensão Secundária 
+ Angina Pectoris 
+ Infarto Agudo do Miocárdio 
+ Infarto do Miocárdio Recorrente 
+ Algumas Complicações Atuais Subseqüentes ao Infarto Agudo do Miocárdio 
+ Outras Doenças Isquêmicas Agudas do Coração 
+ Doença Isquêmica Crônica do Coração 
+ Embolia Pulmonar 
+ Outras Formas de Doença Cardíaca Pulmonar 
+ Outras Doenças Dos Vasos Pulmonares 
+ Pericardite Aguda 
+ Outras Doenças do Pericárdio 
+ Pericardite em Doenças Classificadas em Outra Parte 
+ Endocardite Aguda e Subaguda 
+ Transtornos Não-reumáticos da Valva Mitral 
+ Transtornos Não-reumáticos da Valva Aórtica 
+ Transtornos Não-reumáticos da Valva Tricúspide 
+ Transtornos da Valva Pulmonar 
+ Endocardite de Valva Não Especificada 
+ Endocardite e Transtornos Valvulares Cardíacos em Doenças Classificadas em Outra Parte 
+ Miocardite Aguda 
+ Miocardite em Doenças Classificadas em Outra Parte 
+ Cardiomiopatias 
+ Cardiomiopatia em Doenças Classificadas em Outra Parte 
+ Bloqueio Atrioventricular e do Ramo Esquerdo 
+ Outros Transtornos de Condução 
+ Parada Cardíaca 
+ Taquicardia Paroxística 
+ Flutter e Fibrilação Atrial 
+ Outras Arritmias Cardíacas 
+ Insuficiência Cardíaca 
+ Complicações de Cardiopatias e Doenças Cardíacas Mal Definidas 
+ Outras Afecções Cardíacas em Doenças Classificadas em Outra Parte 
+ Hemorragia Subaracnóide 
+ Hemorragia Intracerebral 
+ Outras Hemorragias Intracranianas Não-traumáticas 
+ Infarto Cerebral 
+ Acidente Vascular Cerebral, Não Especificado Como Hemorrágico ou Isquêmico 
+ Oclusão e Estenose de Artérias Pré-cerebrais Que Não Resultam em Infarto Cerebral 
+ Oclusão e Estenose de Artérias Cerebrais Que Não Resultam em Infarto Cerebral 
+ Outras Doenças Cerebrovasculares 
+ Transtornos Cerebrovasculares em Doenças Classificadas em Outra Parte 
+ Seqüelas de Doenças Cerebrovasculares 
+ Aterosclerose 
+ Aneurisma e Dissecção da Aorta 
+ Outros Aneurismas 
+ Outras Doenças Vasculares Periféricas 
+ Embolia e Trombose Arteriais 
+ Outras Afecções Das Artérias e Arteríolas 
+ Doenças Dos Capilares 
+ Transtornos Das Artérias, Das Arteríolas e Dos Capilares em Doenças Classificadas em Outra Parte 
+ Flebite e Tromboflebite 
+ Trombose da Veia Porta 
+ Outra Embolia e Trombose Venosas 
+ Varizes Dos Membros Inferiores 
+ Hemorróidas 
+ Varizes Esofagianas 
+ Varizes de Outras Localizações 
+ Outros Transtornos Das Veias 
+ Linfadenite Inespecífica 
+ Outros Transtornos Não-infecciosos Dos Vasos Linfáticos e Dos Gânglios Linfáticos 
+ Hipotensão 
+ Transtornos do Aparelho Circulatório, Subseqüentes a Procedimentos Não Classificados em Outra Parte 
+ Outros Transtornos do Aparelho Circulatório em Doenças Classificadas em Outra Parte 
+ Outros Transtornos do Aparelho Circulatório e os Não Especificados 
+ Nasofaringite Aguda (resfriado Comum) 
+ Sinusite Aguda 
+ Faringite Aguda 
+ Amigdalite Aguda 
+ Laringite e Traqueíte Agudas 
+ Laringite Obstrutiva Aguda (crupe) e Epiglotite 
+ Infecções Agudas Das Vias Aéreas Superiores de Localizações Múltiplas e Não Especificadas 
+ Influenza (gripe) Devida a Vírus Identificado da Gripe Aviária 
+ Influenza Devida a Outro Vírus da Influenza (gripe) Identificado 
+ Influenza (gripe) Devida a Vírus Não Identificado 
+ Pneumonia Viral Não Classificada em Outra Parte 
+ Pneumonia Devida a Streptococcus Pneumoniae 
+ Pneumonia Devida a Haemophilus Infuenzae 
+ Pneumonia Bacteriana Não Classificada em Outra Parte 
+ Pneumonia Devida a Outros Microorganismos Infecciosos Especificados Não Classificados em Outra Parte 
+ Pneumonia em Doenças Classificadas em Outra Parte 
+ Pneumonia Por Microorganismo Não Especificada 
+ Bronquite Aguda 
+ Bronquiolite Aguda 
+ Infecções Agudas Não Especificada Das Vias Aéreas Inferiores 
+ Rinite Alérgica e Vasomotora 
+ Rinite, Nasofaringite e Faringite Crônicas 
+ Sinusite Crônica 
+ Pólipo Nasal 
+ Outros Transtornos do Nariz e Dos Seios Paranasais 
+ Doenças Crônicas Das Amígdalas e Das Adenóides 
+ Abscesso Periamigdaliano 
+ Laringite e Laringotraqueíte Crônicas 
+ Doenças Das Cordas Vocais e da Laringe Não Classificadas em Outra Parte 
+ Outras Doenças Das Vias Aéreas Superiores 
+ Bronquite Não Especificada Como Aguda ou Crônica 
+ Bronquite Crônica Simples e a Mucopurulenta 
+ Bronquite Crônica Não Especificada 
+ Enfisema 
+ Outras Doenças Pulmonares Obstrutivas Crônicas 
+ Asma 
+ Estado de Mal Asmático 
+ Bronquectasia 
+ Pneumoconiose Dos Mineiros de Carvão 
+ Pneumoconiose Devida a Amianto (asbesto) e Outras Fibras Minerais 
+ Pneumoconiose Devida a Poeira Que Contenham Sílica 
+ Pneumoconiose Devida a Outras Poeiras Inorgânicas 
+ Pneumoconiose Não Especificada 
+ Pneumoconiose Associada Com Tuberculose 
+ Doenças Das Vias Aéreas Devida a Poeiras Orgânicas Específicas 
+ Pneumonite de Hipersensibilidade Devida a Poeiras Orgânicas 
+ Afecções Respiratórias Devidas a Inalação de Produtos Químicos, Gases, Fumaças e Vapores 
+ Pneumonite Devida a Sólidos e Líquidos 
+ Afecções Respiratórias Devida a Outros Agentes Externos 
+ Síndrome do Desconforto Respiratório do Adulto 
+ Edema Pulmonar, Não Especificado de Outra Forma 
+ Eosinofilia Pulmonar, Não Classificada em Outra Parte 
+ Outras Doenças Pulmonares Intersticiais 
+ Abscesso do Pulmão e do Mediastino 
+ Piotórax 
+ Derrame Pleural Não Classificado em Outra Parte 
+ Derrame Pleural em Afecções Classificadas em Outra Parte 
+ Placas Pleurais 
+ Pneumotórax 
+ Outras Afecções Pleurais 
+ Afecções Respiratórias Pós-procedimentos Não Classificadas em Outra Parte 
+ Insuficiência Respiratória Não Classificada de Outra Parte 
+ Outros Transtornos Respiratórios 
+ Transtornos Respiratórios em Doenças Classificadas em Outra Parte 
+ Distúrbios do Desenvolvimento e da Erupção Dos Dentes 
+ Dentes Inclusos e Impactados 
+ Cárie Dentária 
+ Outras Doenças Dos Tecidos Dentários Duros 
+ Doenças da Polpa e Dos Tecidos Periapicais 
+ Gengivite e Doenças Periodontais 
+ Outros Transtornos da Gengiva e do Rebordo Alveolar Sem Dentes 
+ Anomalias Dentofaciais (inclusive a Maloclusão) 
+ Outros Transtornos Dos Dentes e de Suas Estruturas de Sustentação 
+ Cistos da Região Bucal Não Classificados em Outra Parte 
+ Outras Doenças Dos Maxilares 
+ Doenças Das Glândulas Salivares 
+ Estomatite e Lesões Correlatas 
+ Outras Doenças do Lábio e da Mucosa Oral 
+ Doenças da Língua 
+ Esofagite 
+ Doença de Refluxo Gastroesofágico 
+ Outras Doenças do Esôfago 
+ Transtornos do Esôfago em Doenças Classificadas em Outra Parte 
+ Úlcera Gástrica 
+ Úlcera Duodenal 
+ Úlcera Péptica de Localização Não Especificada 
+ Úlcera Gastrojejunal 
+ Gastrite e Duodenite 
+ Dispepsia 
+ Outras Doenças do Estômago e do Duodeno 
+ Apendicite Aguda 
+ Outras Formas de Apendicite 
+ Apendicite, Sem Outras Especificações 
+ Outras Doenças do Apêndice 
+ Hérnia Inguinal 
+ Hérnia Femoral 
+ Hérnia Umbilical 
+ Hérnia Ventral 
+ Hérnia Diafragmática 
+ Outras Hérnias Abdominais 
+ Hérnia Abdominal Não Especificada 
+ Doença de Crohn (enterite Regional) 
+ Colite Ulcerativa 
+ Outras Gastroenterites e Colites Não-infecciosas 
+ Transtornos Vasculares do Intestino 
+ Íleo Paralítico e Obstrução Intestinal Sem Hérnia 
+ Doença Diverticular do Intestino 
+ Síndrome do Cólon Irritável 
+ Outros Transtornos Funcionais do Intestino 
+ Fissura e Fístula Das Regiões Anal e Retal 
+ Abscesso Das Regiões Anal e Retal 
+ Outras Doenças do Reto e do Ânus 
+ Outras Doenças do Intestino 
+ Peritonite 
+ Outros Transtornos do Peritônio 
+ Comprometimento do Peritônio, em Doenças Infecciosas Classificadas em Outra Parte 
+ Doença Alcoólica do Fígado 
+ Doença Hepática Tóxica 
+ Insuficiência Hepática Não Classificada em Outra Parte 
+ Hepatite Crônica Não Classificada em Outra Parte 
+ Fibrose e Cirrose Hepáticas 
+ Outras Doenças Inflamatórias do Fígado 
+ Outras Doenças do Fígado 
+ Transtornos do Fígado em Doenças Classificadas em Outra Parte 
+ Colelitíase 
+ Colecistite 
+ Outras Doenças da Vesícula Biliar 
+ Outras Doenças Das Vias Biliares 
+ Pancreatite Aguda 
+ Outras Doenças do Pâncreas 
+ Transtornos da Vesícula Biliar, Das Vias Biliares e do Pâncreas em Doenças Classificadas em Outra Parte 
+ Má-absorção Intestinal 
+ Transtornos do Aparelho Digestivo Pós-procedimentos, Não Classificados em Outra Parte 
+ Outras Doenças do Aparelho Digestivo 
+ Transtornos de Outros Órgãos Digestivos em Doenças Classificadas em Outra Parte 
+ Síndrome da Pele Escaldada Estafilocócica do Recém-nascido 
+ Impetigo 
+ Abscesso Cutâneo, Furúnculo e Antraz 
+ Celulite (Flegmão) 
+ Linfadenite Aguda 
+ Cisto Pilonidal 
+ Outras Infecções Localizadas da Pele e do Tecido Subcutâneo 
+ Pênfigo 
+ Outras Afecções Acantolíticas 
+ Penfigóide 
+ Outras Afecções Bolhosas 
+ Afecções Bolhosas em Doenças Classificadas em Outra Parte 
+ Dermatite Atópica 
+ Dermatite Seborréica 
+ Dermatite Das Fraldas 
+ Dermatites Alérgicas de Contato 
+ Dermatites de Contato Por Irritantes 
+ Dermatite de Contato Não Especificada 
+ Dermatite Esfoliativa 
+ Dermatite Devida a Substâncias de Uso Interno 
+ Líquen Simples Crônico e Prurigo 
+ Prurido 
+ Outras Dermatites 
+ Psoríase 
+ Parapsoríase 
+ Pitiríase Rósea 
+ Líquen Plano 
+ Outras Afecções Pápulo-descamativas 
+ Afecções Pápulo-descamativas em Doenças Classificadas em Outra Parte 
+ Urticária 
+ Eritema Polimorfo (eritema Multiforme) 
+ Eritema Nodoso 
+ Outras Afecções Eritematosas 
+ Eritema em Doenças Classificadas em Outra Parte 
+ Queimadura Solar 
+ Outras Alterações Agudas da Pele Devidas a Radiação Ultravioleta 
+ Alterações da Pele Devidas à Exposição Crônica à Radiação Não Ionizante 
+ Radiodermatite 
+ Outras Afecções da Pele e do Tecido Subcutâneo Relacionadas Com a Radiação 
+ Afecções Das Unhas 
+ Afecções Das Unhas em Doenças Classificadas em Outra Parte 
+ Alopécia Areata 
+ Alopécia Androgênica 
+ Outras Formas Não Cicatriciais da Perda de Cabelos ou Pêlos 
+ Alopécia Cicatricial (perda de Cabelos ou Pêlos, Cicatricial) 
+ Anormalidades da Cor e do Pedículo Dos Cabelos e Dos Pêlos 
+ Hipertricose 
+ Acne 
+ Rosácea 
+ Cistos Foliculares da Pele e do Tecido Subcutâneo 
+ Outras Afecções Foliculares 
+ Afecções Das Glândulas Sudoríparas Écrinas 
+ Afecções Das Glândulas Sudoríparas Apócrinas 
+ Vitiligo 
+ Outros Transtornos da Pigmentação 
+ Ceratose Seborréica 
+ Acantose Nigricans 
+ Calos e Calosidades 
+ Outras Formas de Espessamento Epidérmico 
+ Ceratodermia em Doenças Classificadas em Outra Parte 
+ Transtornos da Eliminação Transepidérmica 
+ Piodermite Gangrenosa 
+ Úlcera de Decúbito 
+ Afecções Atróficas da Pele 
+ Afecções Hipertróficas da Pele 
+ Afecções Granulomatosas da Pele e do Tecido Subcutâneo 
+ Lúpus Eritematoso 
+ Outras Afecções Localizadas do Tecido Conjuntivo 
+ Vasculite Limitada a Pele Não Classificadas em Outra Parte 
+ Úlcera Dos Membros Inferiores Não Classificada em Outra Parte 
+ Outras Afecções da Pele e do Tecido Subcutâneo Não Classificadas em Outra Parte 
+ Outras Afecções da Pele e do Tecido Subcutâneo em Doenças Classificadas em Outra Parte 
+ Artrite Piogênica 
+ Infecções Diretas da Articulação em Doenças Infecciosas e Parasitárias Classificadas em Outra Parte 
+ Artropatias Reacionais 
+ Artropatias Pós-infecciosas e Reacionais em Doenças Infecciosas Classificadas em Outra Parte 
+ Artrite Reumatóide Soro-positiva 
+ Outras Artrites Reumatóides 
+ Artropatias Psoriásicas e Enteropáticas 
+ Artrite Juvenil 
+ Artrite Juvenil em Doenças Classificadas em Outra Parte 
+ Gota 
+ Outras Artropatias Por Deposição de Cristais 
+ Outras Artropatias Especificadas 
+ Outras Artrites 
+ Artropatias em Outras Doenças Classificadas em Outra Parte 
+ Poliartrose 
+ Coxartrose (artrose do Quadril) 
+ Gonartrose (artrose do Joelho) 
+ Artrose da Primeira Articulação Carpometacarpiana 
+ Outras Artroses 
+ Deformidades Adquiridas Dos Dedos Das Mãos e Dos Pés 
+ Outras Deformidades Adquiridas Dos Membros 
+ Transtornos da Rótula (patela) 
+ Transtornos Internos Dos Joelhos 
+ Outros Transtornos Articulares Específicos 
+ Outros Transtornos Articulares Não Classificados em Outra Parte 
+ Poliarterite Nodosa e Afecções Correlatas 
+ Outras Vasculopatias Necrotizantes 
+ Lúpus Eritematoso Disseminado (sistêmico) 
+ Dermatopoliomiosite 
+ Esclerose Sistêmica 
+ Outras Afecções Sistêmicas do Tecido Conjuntivo 
+ Doenças Sistêmicas do Tecido Conjuntivo em Doenças Classificadas em Outra Parte 
+ Cifose e Lordose 
+ Escoliose 
+ Osteocondrose da Coluna Vertebral 
+ Outras Dorsopatias Deformantes 
+ Espondilite Ancilosante 
+ Outras Espondilopatias Inflamatórias 
+ Espondilose 
+ Outras Espondilopatias 
+ Espondilopatias em Doenças Classificadas em Outra Parte 
+ Transtornos Dos Discos Cervicais 
+ Outros Transtornos de Discos Intervertebrais 
+ Outras Dorsopatias Não Classificadas em Outra Parte 
+ Dorsalgia 
+ Miosite 
+ Calcificação e Ossificação do Músculo 
+ Outros Transtornos Musculares 
+ Transtornos de Músculo em Doenças Classificadas em Outra Parte 
+ Sinovite e Tenossinovite 
+ Ruptura Espontânea de Sinóvia e de Tendão 
+ Outros Transtornos Das Sinóvias e Dos Tendões 
+ Transtorno de Sinóvias e de Tendões em Doenças Classificadas em Outra Parte 
+ Transtornos Dos Tecidos Moles Relacionados Com o Uso, Uso Excessivo e Pressão 
+ Outras Bursopatias 
+ Transtornos Fibroblásticos 
+ Transtornos Dos Tecidos Moles em Doenças Classificadas em Outra Parte 
+ Lesões do Ombro 
+ Entesopatias Dos Membros Inferiores, Excluindo pé 
+ Outras Entesopatias 
+ Outros Transtornos Dos Tecidos Moles, Não Classificados em Outra Parte 
+ Osteoporose Com Fratura Patológica 
+ Osteoporose Sem Fratura Patológica 
+ Osteoporose em Doenças Classificadas em Outra Parte 
+ Osteomalácia do Adulto 
+ Transtornos da Continuidade do Osso 
+ Outros Transtornos da Densidade e da Estrutura Ósseas 
+ Osteomielite 
+ Osteonecrose 
+ Doença de Paget do Osso (osteíte Deformante) 
+ Outros Transtornos Ósseos 
+ Osteopatias em Doenças Classificadas em Outra Parte 
+ Osteocondrose Juvenil do Quadril e da Pelve 
+ Outras Osteocondroses Juvenis 
+ Outras Osteocondropatias 
+ Outros Transtornos Das Cartilagens 
+ Outras Deformidades Adquiridas do Sistema Osteomuscular e do Tecido Conjuntivo 
+ Transtornos Osteomusculares Pós-procedimentos Não Classificados em Outra Parte 
+ Lesões Biomecânicas Não Classificadas em Outra Parte 
+ Síndrome Nefrítica Aguda 
+ Síndrome Nefrítica Rapidamente Progressiva 
+ Hematúria Recidivante e Persistente 
+ Síndrome Nefrítica Crônica 
+ Síndrome Nefrótica 
+ Síndrome Nefrítica Não Especificada 
+ Proteinúria Isolada Com Lesão Morfológica Especificada 
+ Nefropatia Hereditária Não Classificada em Outra Parte 
+ Transtornos Glomerulares em Doenças Classificadas em Outra Parte 
+ Nefrite Túbulo-intersticial Aguda 
+ Nefrite Túbulo-intersticial Crônica 
+ Nefrite Túbulo-intersticial Não Especificada se Aguda ou Crônica 
+ Uropatia Obstrutiva e Por Refluxo 
+ Afecções Tubulares e Túbulo-intersticiais Induzidas Por Drogas ou Metais Pesados 
+ Outras Doenças Renais Túbulo-intersticiais 
+ Transtornos Renais Túbulo-intersticiais em Doenças Classificadas em Outra Parte 
+ Insuficiência Renal Aguda 
+ Insuficiência Renal Crônica 
+ Insuficiência Renal Não Especificada 
+ Calculose do Rim e do Ureter 
+ Calculose do Trato Urinário Inferior 
+ Calculose do Trato Urinário Inferior em Doenças Classificadas em Outra Parte 
+ Cólica Nefrética Não Especificada 
+ Transtornos Resultantes de Função Renal Tubular Alterada 
+ Rim Contraído, Não Especificado 
+ Hipoplasia Renal de Causa Desconhecida 
+ Outros Transtornos do Rim e do Ureter Não Classificado em Outra Parte 
+ Outros Transtornos do Rim e do Ureter em Doenças Classificadas em Outra Parte 
+ Cistite 
+ Disfunções Neuromusculares da Bexiga Não Classificados em Outra Parte 
+ Outros Transtornos da Bexiga 
+ Transtornos da Bexiga em Doenças Classificadas em Outra Parte 
+ Uretrite e Síndrome Uretral 
+ Estenose da Uretra 
+ Outros Transtornos da Uretra 
+ Transtornos da Uretra em Doenças Classificadas em Outra Parte 
+ Outros Transtornos do Trato Urinário 
+ Hiperplasia da Próstata 
+ Doenças Inflamatórias da Próstata 
+ Outras Afecções da Próstata 
+ Hidrocele e Espermatocele 
+ Torção do Testículo 
+ Orquite e Epididimite 
+ Infertilidade Masculina 
+ Hipertrofia do Prepúcio, Fimose e Parafimose 
+ Outros Transtornos do Pênis 
+ Transtornos Inflamatórios de Órgãos Genitais Masculinos, Não Classificados em Outra Parte 
+ Outros Transtornos Dos Órgãos Genitais Masculinos 
+ Transtornos Dos Órgãos Genitais Masculinos em Doenças Classificadas em Outra Parte 
+ Displasias Mamárias Benignas 
+ Transtornos Inflamatórios da Mama 
+ Hipertrofia da Mama 
+ Nódulo Mamário Não Especificado 
+ Outras Doenças da Mama 
+ Salpingite e Ooforite 
+ Doença Inflamatória do Útero, Exceto o Colo 
+ Doença Inflamatória do Colo do Útero 
+ Outras Doenças Inflamatórias Pélvicas Femininas 
+ Transtornos Inflamatórios da Pelve Feminina em Doenças Classificadas em Outra Parte 
+ Doenças da Glândula de Bartholin 
+ Outras Afecções Inflamatórias da Vagina e da Vulva 
+ Ulceração e Inflamação Vulvovaginais em Doenças Classificadas em Outra Parte 
+ Endometriose 
+ Prolapso Genital Feminino 
+ Fístulas do Trato Genital Feminino 
+ Transtornos Não-inflamatórios do Ovário, da Trompa de Falópio e do Ligamento Largo 
+ Pólipo do Trato Genital Feminino 
+ Outros Transtornos Não-inflamatórios do Útero, Exceto do Colo do Útero 
+ Erosão e Ectrópio do Colo do Útero 
+ Displasia do Colo do Útero 
+ Outros Transtornos Não-inflamatórios do Colo do Útero 
+ Outros Transtornos Não-inflamatórios da Vagina 
+ Outros Transtornos Não-inflamatórios da Vulva e do Períneo 
+ Menstruação Ausente, Escassa e Pouco Freqüente 
+ Menstruação Excessiva, Freqüente e Irregular 
+ Outros Sangramentos Anormais do Útero e da Vagina 
+ Dor e Outras Afecções Associadas Com os Órgãos Genitais Femininos e Com o Ciclo Menstrual 
+ Transtornos da Menopausa e da Perimenopausa 
+ Abortamento Habitual 
+ Infertilidade Feminina 
+ Complicações Associadas à Fecundação Artificial 
+ Transtornos do Trato Geniturinário Pós-procedimentos Não Classificados em Outra Parte 
+ Gravidez Ectópica 
+ Mola Hidatiforme 
+ Outros Produtos Anormais da Concepção 
+ Aborto Espontâneo 
+ Aborto Por Razões Médicas e Legais 
+ Outros Tipos de Aborto 
+ Aborto Não Especificado 
+ Falha de Tentativa de Aborto 
+ Complicações Conseqüentes a Aborto e Gravidez Ectópica ou Molar 
+ Hipertensão Pré-existente Complicando a Gravidez, o Parto e o Puerpério 
+ Distúrbio Hipertensivo Pré-existente Com Proteinúria Superposta 
+ Edema e Proteinúria Gestacionais (induzidos Pela Gravidez), Sem Hipertensão 
+ Hipertensão Gestacional (induzida Pela Gravidez) Sem Proteinúria Significativa 
+ Hipertensão Gestacional (induzida Pela Gravidez) Com Proteinúria Significativa 
+ Eclâmpsia 
+ Hipertensão Materna Não Especificada 
+ Hemorragia do Início da Gravidez 
+ Vômitos Excessivos na Gravidez 
+ Complicações Venosas na Gravidez 
+ Infecções do Trato Geniturinário na Gravidez 
+ Diabetes Mellitus na Gravidez 
+ Desnutrição na Gravidez 
+ Assistência Materna Por Outras Complicações Ligadas Predominantemente à Gravidez 
+ "Achados Anormais do Rastreamento (""screening"") Antenatal da Mãe" 
+ Complicações de Anestesia Administrada Durante a Gravidez 
+ Gestação Múltipla 
+ Complicações Específicas de Gestação Múltipla 
+ Assistência Prestada à Mãe Por Motivo de Apresentação Anormal, Conhecida ou Suspeitada, do Feto 
+ Assistência Prestada à Mãe Por Uma Desproporção Conhecida ou Suspeita 
+ Assistência Prestada à Mãe Por Anormalidade, Conhecida ou Suspeita, Dos Órgãos Pélvicos Maternos 
+ Assistência Prestada à Mãe Por Anormalidade e Lesão Fetais, Conhecidas ou Suspeitadas 
+ Assistência Prestada à Mãe Por Outros Problemas Fetais Conhecidos ou Suspeitados 
+ Polihidrâmnio 
+ Outros Transtornos Das Membranas e do Líquido Amniótico 
+ Ruptura Prematura de Membranas 
+ Transtornos da Placenta 
+ Placenta Prévia 
+ Descolamento Prematuro da Placenta (abruptio Placentae) 
+ Hemorragia Anteparto Não Classificada em Outra Parte 
+ Falso Trabalho de Parto 
+ Gravidez Prolongada 
+ Trabalho de Parto Pré-termo 
+ Falha na Indução do Trabalho de Parto 
+ Anormalidades da Contração Uterina 
+ Trabalho de Parto Prolongado 
+ Obstrução do Trabalho de Parto Devida à Má-posição ou Má-apresentação do Feto 
+ Obstrução do Trabalho de Parto Devida a Anormalidade Pélvica da Mãe 
+ Outras Formas de Obstrução do Trabalho de Parto 
+ Trabalho de Parto e Parto Complicados Por Hemorragia Intraparto Não Classificados em Outra Parte 
+ Trabalho de Parto e Parto Complicados Por Sofrimento Fetal 
+ Trabalho de Parto e Parto Complicados Por Anormalidade do Cordão Umbilical 
+ Laceração do Períneo Durante o Parto 
+ Outros Traumatismos Obstétricos 
+ Hemorragia Pós-parto 
+ Retenção da Placenta e Das Membranas, Sem Hemorragias 
+ Complicações de Anestesia Durante o Trabalho de Parto e o Parto 
+ Outras Complicações do Trabalho de Parto e do Parto Não Classificadas em Outra Parte 
+ Parto Único Espontâneo 
+ Parto Único Por Fórceps ou Vácuo-extrator 
+ Parto Único Por Cesariana 
+ Outros Tipos de Parto Único Assistido 
+ Parto Múltiplo 
+ Infecção Puerperal 
+ Outras Infecções Puerperais 
+ Complicações Venosas no Puerpério 
+ Embolia de Origem Obstétrica 
+ Complicações da Anestesia Administrada Durante o Puerpério 
+ Complicações do Puerpério Não Classificadas em Outra Parte 
+ Infecções Mamárias Associadas ao Parto 
+ Outras Afecções da Mama e da Lactação Associadas ao Parto 
+ Seqüelas de Complicações da Gravidez, Parto e Puerpério 
+ Morte Obstétrica de Causa Não Especificada 
+ Morte, Por Qualquer Causa Obstétrica, Que Ocorre Mais de 42 Dias, Mas Menos de 1 Ano, Após o Parto 
+ Morte Por Seqüelas de Causas Obstétricas Diretas 
+ Doenças Infecciosas e Parasitárias Maternas Classificáveis em Outra Parte Mas Que Compliquem a Gravidez, o Parto e o Puerpério 
+ Outras Doenças da Mãe, Classificadas em Outra Parte, Mas Que Complicam a Gravidez o Parto e o Puerpério 
+ Feto e Recém-nascido Afetados Por Afecções Maternas, Não Obrigatoriamente Relacionadas Com a Gravidez Atual 
+ Feto e Recém-nascido Afetados Por Complicações Maternas da Gravidez 
+ Feto e Recém-nascido Afetados Por Complicações da Placenta, do Cordão Umbilical e Das Membranas 
+ Feto e Recém-nascido Afetados Por Outras Complicações do Trabalho de Parto e do Parto 
+ Feto e Recém-nascido Afetados Por Influências Nocivas Transmitidas ao Feto Via Placenta ou Leite Materno 
+ Crescimento Fetal Retardado e Desnutrição Fetal 
+ Transtornos Relacionados Com a Gestação de Curta Duração e Peso Baixo ao Nascer Não Classificados em Outra Parte 
+ Transtornos Relacionados Com a Gestação Prolongada e Peso Elevado ao Nascer 
+ Laceração Intracraniana e Hemorragia Devidas a Traumatismo de Parto 
+ Outros Traumatismos de Parto do Sistema Nervoso Central 
+ Lesão do Couro Cabeludo Devida a Traumatismo de Parto 
+ Lesões do Esqueleto Devidas a Traumatismo de Parto 
+ Lesões ao Nascer do Sistema Nervoso Periférico 
+ Outros Traumatismos de Parto 
+ Hipóxia Intra-uterina 
+ Asfixia ao Nascer 
+ Desconforto (angústia) Respiratório(a) do Recém-nascido 
+ Pneumonia Congênita 
+ Síndrome de Aspiração Neonatal 
+ Enfisema Intersticial e Afecções Correlatas Originadas no Período Perinatal 
+ Hemorragia Pulmonar Originada no Período Perinatal 
+ Doença Respiratória Crônica Originada no Período Perinatal 
+ Outras Afecções Respiratórias Originadas no Período Perinatal 
+ Transtornos Cardiovasculares Originados no Período Perinatal 
+ Doenças Virais Congênitas 
+ Septicemia Bacteriana do Recém-nascido 
+ Outras Doenças Infecciosas e Parasitárias Congênitas 
+ Onfalite do Recém-nascido Com ou Sem Hemorragia Leve 
+ Outras Infecções Específicas do Período Perinatal 
+ Perda Sangüínea Fetal 
+ Hemorragia Umbilical do Recém-nascido 
+ Hemorragia Intracraniana Não-traumática do Feto e do Recém-nascido 
+ Doença Hemorrágica do Feto e do Recém-nascido 
+ Outras Hemorragias Neonatais 
+ Doença Hemolítica do Feto e do Recém-nascido 
+ Hidropsia Fetal Devida a Doença Hemolítica 
+ Kernicterus 
+ Icterícia Neonatal Devida a Outras Hemólises Excessivas 
+ Icterícia Neonatal Devida a Outras Causas e às Não Especificadas 
+ Coagulação Intravascular Disseminada do Feto e do Recém-nascido 
+ Outros Transtornos Hematológicos Perinatais 
+ Transtornos Transitórios do Metabolismo Dos Carboidratos Específicos do Feto e do Recém-nascido 
+ Transtornos Transitórios do Metabolismo do Cálcio e do Magnésio do Período Neonatal 
+ Outros Transtornos Endócrinos Transitórios do Período Neonatal 
+ Outros Distúrbios Eletrolíticos e Metabólicos Transitórios do Período Neonatal 
+ Íleo Meconial 
+ Outras Obstruções Intestinais do Recém-nascido 
+ Enterocolite Necrotizante do Feto e do Recém-nascido 
+ Outros Transtornos do Aparelho Digestivo do Período Perinatal 
+ Hipotermia do Recém-nascido 
+ Outros Distúrbios da Regulação Térmica do Recém-nascido 
+ Outras Afecções Comprometendo o Tegumento Específicas do Feto e do Recém-nascido 
+ Convulsões do Recém-nascido 
+ Outros Distúrbios da Função Cerebral do Recém-nascido 
+ Problemas de Alimentação do Recém-nascido 
+ Reações e Intoxicações Devidas a Drogas Administradas ao Feto e ao Recém-nascido 
+ Transtornos do Tônus Muscular do Recém-nascido 
+ Morte Fetal de Causa Não Especificada 
+ Outras Afecções Originadas no Período Perinatal 
+ Anencefalia e Malformações Similares 
+ Encefalocele 
+ Microcefalia 
+ Hidrocefalia Congênita 
+ Outras Malformações Congênitas do Cérebro 
+ Espinha Bífida 
+ Outras Malformações Congênitas da Medula Espinhal 
+ Outras Malformações Congênitas do Sistema Nervoso 
+ Malformações Congênitas Das Pálpebras, do Aparelho Lacrimal e da Órbita 
+ Anoftalmia, Microftalmia e Macroftalmia 
+ Malformações Congênitas do Cristalino 
+ Malformações Congênitas da Câmara Anterior do Olho 
+ Malformações Congênitas da Câmara Posterior do Olho 
+ Outras Malformações Congênitas do Olho 
+ Malformações Congênitas do Ouvido Causando Comprometimento da Audição 
+ Outras Malformações Congênitas da Orelha 
+ Outras Malformações Congênitas da Face e do Pescoço 
+ Malformações Congênitas Das Câmaras e Das Comunicações Cardíacas 
+ Malformações Congênitas Dos Septos Cardíacos 
+ Malformações Congênitas Das Valvas Pulmonar e Tricúspide 
+ Malformações Congênitas Das Valvas Aórtica e Mitral 
+ Outras Malformações Congênitas do Coração 
+ Malformações Congênitas Das Grandes Artérias 
+ Malformações Congênitas Das Grandes Veias 
+ Outras Malformações Congênitas do Sistema Vascular Periférico 
+ Outras Malformações Congênitas do Aparelho Circulatório 
+ Malformação Congênita do Nariz 
+ Malformações Congênitas da Laringe 
+ Malformações Congênitas da Traquéia e Dos Brônquios 
+ Malformações Congênitas do Pulmão 
+ Outras Malformações Congênitas do Aparelho Respiratório 
+ Fenda Palatina 
+ Fenda Labial 
+ Fenda Labial Com Fenda Palatina 
+ Outras Malformações Congênitas da Língua, da Boca e da Faringe 
+ Malformações Congênitas do Esôfago 
+ Outras Malformações Congênitas do Trato Digestivo Superior 
+ Ausência, Atresia e Estenose Congênita do Intestino Delgado 
+ Ausência, Atresia e Estenose Congênita do Cólon 
+ Outras Malformações Congênitas do Intestino 
+ Malformações Congênitas da Vesícula Biliar, Das Vias Biliares e do Fígado 
+ Outras Malformações Congênitas do Aparelho Digestivo 
+ Malformações Congênitas Dos Ovários, Das Trompas de Falópio e Dos Ligamentos Largos 
+ Malformações Congênitas do Útero e do Colo do Útero 
+ Outras Malformações Congênitas Dos Órgãos Genitais Femininos 
+ Testículo Não-descido 
+ Hipospádias 
+ Outras Malformações Congênitas Dos Órgãos Genitais Masculinos 
+ Sexo Indeterminado e Pseudo-hermafroditismo 
+ Agenesia Renal e Outros Defeitos de Redução do Rim 
+ Doenças Císticas do Rim 
+ Anomalias Congênitas Obstrutivas da Pelve Renal e Malformações Congênitas do Ureter 
+ Outras Malformações Congênitas do Rim 
+ Outras Malformações Congênitas do Aparelho Urinário 
+ Malformações Congênitas do Quadril 
+ Deformidades Congênitas do pé 
+ Deformidades Osteomusculares Congênitas da Cabeça, da Face, da Coluna e do Tórax 
+ Outras Deformidades Osteomusculares Congênitas 
+ Polidactilia 
+ Sindactilia 
+ Defeitos, Por Redução, do Membro Superior 
+ Defeitos, Por Redução, do Membro Inferior 
+ Defeitos Por Redução de Membro Não Especificado 
+ Outras Malformações Congênitas Dos Membros 
+ Outras Malformações Congênitas Dos Ossos do Crânio e da Face 
+ Malformações Congênitas da Coluna Vertebral e Dos Ossos do Tórax 
+ Osteocondrodisplasia Com Anomalias de Crescimento Dos Ossos Longos e da Coluna Vertebral 
+ Outras Osteocondrodisplasias 
+ Malformações Congênitas do Sistema Osteomuscular Não Classificadas em Outra Parte 
+ Ictiose Congênita 
+ Epidermólise Bolhosa 
+ Outras Malformações Congênitas da Pele 
+ Malformações Congênitas da Mama 
+ Outras Malformações Congênitas do Tegumento 
+ Facomatoses Não Classificadas em Outra Parte 
+ Síndromes Com Malformações Congênitas Devidas a Causas Exógenas Conhecidas, Não Classificadas em Outra Parte 
+ Outras Síndromes Com Malformações Congênitas Que Acometem Múltiplos Sistemas 
+ Outras Malformações Congênitas Não Classificadas em Outra Parte 
+ Síndrome de Down 
+ Síndrome de Edwards e Síndrome de Patau 
+ Outras Trissomias e Trissomias Parciais Dos Autossomos, Não Classificadas em Outra Parte 
+ Monossomias e Deleções Dos Autossomos, Não Classificadas em Outra Parte 
+ Rearranjos Equilibrados e Marcadores Estruturais, Não Classificados em Outra Parte 
+ Síndrome de Turner 
+ Outras Anomalias Dos Cromossomos Sexuais, Fenótipo Feminino, Não Classificadas em Outra Parte 
+ Outras Anomalias Dos Cromossomos Sexuais, Fenótipo Masculino, Não Classificadas em Outra Parte 
+ Outras Anomalias Dos Cromossomos, Não Classificadas em Outra Parte 
+ Anormalidades do Batimento Cardíaco 
+ Sopros e Outros Ruídos Cardíacos 
+ Gangrena Não Classificada em Outra Parte 
+ Valor Anormal da Pressão Arterial Sem Diagnóstico 
+ Hemorragia Das Vias Respiratórias 
+ Tosse 
+ Anormalidades da Respiração 
+ Dor de Garganta e no Peito 
+ Outros Sintomas e Sinais Relativos Aos Aparelhos Circulatório e Respiratório 
+ Dor Abdominal e Pélvica 
+ Náusea e Vômitos 
+ Pirose 
+ Disfagia 
+ Flatulência e Afecções Correlatas 
+ Incontinência Fecal 
+ Hepatomegalia e Esplenomegalia Não Classificadas em Outra Parte 
+ Icterícia Não Especificada 
+ Ascite 
+ Outros Sintomas e Sinais Relativos ao Aparelho Digestivo e ao Abdome 
+ Distúrbios da Sensibilidade Cutânea 
+ Eritema e Outras Erupções Cutâneas Não Especificadas 
+ Tumefação, Massa ou Tumoração Localizadas da Pele e do Tecido Subcutâneo 
+ Outras Alterações Cutâneas 
+ Movimentos Involuntários Anormais 
+ Anormalidades da Marcha e da Mobilidade 
+ Outros Distúrbios da Coordenação 
+ Outros Sintomas e Sinais Relativos Aos Sistemas Nervoso e Osteomuscular 
+ Dor Associada à Micção 
+ Hematúria Não Especificada 
+ Incontinência Urinária Não Especificada 
+ Retenção Urinária 
+ Anúria e Oligúria 
+ Poliúria 
+ Secreção Uretral 
+ Outros Sintomas e Sinais Relativos ao Aparelho Urinário 
+ Sonolência, Estupor e Coma 
+ Outros Sintomas e Sinais Relativos à Função Cognitiva e à Consciência 
+ Tontura e Instabilidade 
+ Distúrbios do Olfato e do Paladar 
+ Outros Sintomas e Sinais Relativos às Sensações e às Percepções Gerais 
+ Sintomas e Sinais Relativos ao Estado Emocional 
+ Sintomas e Sinais Relativos à Aparência e ao Comportamento 
+ Distúrbios da Fala Não Classificados em Outra Parte 
+ Dislexia e Outras Disfunções Simbólicas, Não Classificadas em Outra Parte 
+ Distúrbios da Voz 
+ Febre de Origem Desconhecida e de Outras Origens 
+ Cefaléia 
+ Dor Não Classificada em Outra Parte 
+ Mal Estar, Fadiga 
+ Senilidade 
+ Síncope e Colapso 
+ Convulsões, Não Classificadas em Outra Parte 
+ Choque Não Classificado em Outra Parte 
+ Hemorragia Não Classificada em Outra Parte 
+ Aumento de Volume Dos Gânglios Linfáticos 
+ Edema Não Classificado em Outra Parte 
+ Hiperidrose 
+ Retardo do Desenvolvimento Fisiológico Normal 
+ Sintomas e Sinais Relativos à Ingestão de Alimentos e Líquidos 
+ Caquexia 
+ Outros Sintomas e Sinais Gerais 
+ Causas Desconhecidas e Não Especificadas de Morbidade 
+ Velocidade de Hemossedimentação Elevada e Outras Anormalidades da Viscosidade Plasmática 
+ Anormalidade Das Hemácias 
+ Anormalidade Dos Leucócitos Não Classificada em Outra Parte 
+ Aumento da Glicemia 
+ Anormalidades Dos Níveis de Enzimas Séricas 
+ Evidência Laboratorial do Vírus da Imunodeficiência Humana (HIV) 
+ Outros Achados Imunológicos Anormais no Soro 
+ Outras Anormalidades Das Proteínas Plasmáticas 
+ Presença de Drogas e de Outras Substâncias Normalmente Não Encontradas no Sangue 
+ Outros Achados Anormais de Exames Químicos do Sangue 
+ Proteinúria Isolada 
+ Glicosúria 
+ Outros Achados Anormais na Urina 
+ Achados Anormais no Líquido Cefalorraquidiano 
+ Achados Anormais de Material Proveniente Dos Órgãos Respiratórios e do Tórax 
+ Achados Anormais de Material Proveniente Dos Órgãos Digestivos e da Cavidade Abdominal 
+ Achados Anormais de Material Proveniente Dos Órgãos Genitais Masculinos 
+ Achados Anormais de Material Proveniente Dos Órgãos Genitais Femininos 
+ Achados Anormais de Material Proveniente de Outros Órgãos, Aparelhos, Sistemas e Tecidos 
+ Resultados Anormais de Exames Para Diagnóstico Por Imagem do Sistema Nervoso Central 
+ Achados Anormais, de Exames Para Diagnóstico Por Imagem, do Pulmão 
+ Achados Anormais, de Exames Para Diagnóstico Por Imagem, da Mama 
+ Achados Anormais de Exames Para Diagnóstico Por Imagem de Outras Estruturas do Corpo 
+ Resultados Anormais de Estudos de Função 
+ Síndrome da Morte Súbita na Infância 
+ Outras Mortes Súbitas de Causa Desconhecida 
+ Morte Sem Assistência 
+ Outras Causas Mal Definidas e as Não Especificadas de Mortalidade 
+ Traumatismo Superficial da Cabeça 
+ Ferimento da Cabeça 
+ Fratura do Crânio e Dos Ossos da Face 
+ Luxação, Entorse ou Distensão Das Articulações e Dos Ligamentos da Cabeça 
+ Traumatismo Dos Nervos Cranianos 
+ Traumatismo do Olho e da Órbita Ocular 
+ Traumatismo Intracraniano 
+ Lesões Por Esmagamento da Cabeça 
+ Amputação Traumática de Parte da Cabeça 
+ Outros Traumatismos da Cabeça e os Não Especificados 
+ Traumatismo Superficial do Pescoço 
+ Ferimento do Pescoço 
+ Fratura do Pescoço 
+ Luxação, Entorse ou Distensão Das Articulações e Dos Ligamentos do Pescoço 
+ Traumatismo de Nervos e da Medula Espinhal ao Nível Cervical 
+ Traumatismo Dos Vasos Sangüíneos ao Nível do Pescoço 
+ Traumatismo de Tendões e de Músculos do Pescoço 
+ Lesões Por Esmagamento do Pescoço 
+ Amputação Traumática ao Nível do Pescoço 
+ Outros Traumatismos do Pescoço e os Não Especificados 
+ Traumatismo Superficial do Tórax 
+ Ferimento do Tórax 
+ Fratura de Costela(s), Esterno e Coluna Torácica 
+ Luxação, Entorse e Distensão de Articulações e Dos Ligamentos do Tórax 
+ Traumatismos de Nervos e da Medula Espinhal ao Nível do Tórax 
+ Traumatismo de Vasos Sangüíneos do Tórax 
+ Traumatismo do Coração 
+ Traumatismo de Outros Órgãos Intratorácicos e Dos Não Especificados 
+ Lesão Por Esmagamento do Tórax e Amputação Traumática de Parte do Tórax 
+ Outros Traumatismos do Tórax e os Não Especificados 
+ Traumatismo Superficial do Abdome, do Dorso e da Pelve 
+ Ferimento do Abdome, do Dorso e da Pelve 
+ Fratura da Coluna Lombar e da Pelve 
+ Luxação, Entorse ou Distensão Das Articulações e Dos Ligamentos da Coluna Lombar e da Pelve 
+ Traumatismo Dos Nervos e da Medula Lombar ao Nível do Abdome, do Dorso e da Pelve 
+ Traumatismo de Vasos Sangüíneos ao Nível do Abdome, do Dorso e da Pelve 
+ Traumatismo de Órgãos Intra-abdominais 
+ Traumatismo do Aparelho Urinário e de Órgãos Pélvicos 
+ Lesão Por Esmagamento e Amputação Traumática de Parte do Abdome, do Dorso e da Pelve 
+ Outros Traumatismos e os Não Especificados do Abdome, do Dorso e da Pelve 
+ Traumatismo Superficial do Ombro e do Braço 
+ Ferimento do Ombro e do Braço 
+ Fratura do Ombro e do Braço 
+ Luxação, Entorse e Distensão Das Articulações e Dos Ligamentos da Cintura Escapular 
+ Traumatismo de Nervos ao Nível do Ombro e do Braço 
+ Traumatismo Dos Vasos Sangüíneos ao Nível do Ombro e do Braço 
+ Traumatismo de Tendão e Músculo ao Nível do Ombro e do Braço 
+ Lesão Por Esmagamento do Ombro e do Braço 
+ Amputação Traumática do Ombro e do Braço 
+ Outros Traumatismos e os Não Especificados do Ombro e do Braço 
+ Traumatismo Superficial do Cotovelo e do Antebraço 
+ Ferimento do Antebraço 
+ Fratura do Antebraço 
+ Luxação, Entorse e Distensão Das Articulações e Dos Ligamentos do Cotovelo 
+ Traumatismo de Nervos ao Nível do Antebraço 
+ Traumatismo de Vasos Sangüíneos ao Nível do Antebraço 
+ Traumatismo do Músculo e Tendão ao Nível do Antebraço 
+ Lesão Por Esmagamento do Antebraço 
+ Amputação Traumática do Cotovelo e do Antebraço 
+ Outros Traumatismos do Antebraço e os Não Especificados 
+ Traumatismo Superficial do Punho e da Mão 
+ Ferimento do Punho e da Mão 
+ Fratura ao Nível do Punho e da Mão 
+ Luxação, Entorse e Distensão Das Articulações e Dos Ligamentos ao Nível do Punho e da Mão 
+ Traumatismo de Nervos ao Nível do Punho e da Mão 
+ Traumatismo de Vasos Sangüíneos ao Nível do Punho e da Mão 
+ Traumatismo de Músculo e Tendão ao Nível do Punho e da Mão 
+ Lesão Por Esmagamento do Punho e da Mão 
+ Amputação Traumática ao Nível do Punho e da Mão 
+ Outros Traumatismos e os Não Especificados do Punho e da Mão 
+ Traumatismo Superficial do Quadril e da Coxa 
+ Ferimento do Quadril e da Coxa 
+ Fratura do Fêmur 
+ Luxação, Entorse e Distensão da Articulação e Dos Ligamentos do Quadril 
+ Traumatismo de Nervos ao Nível do Quadril e da Coxa 
+ Traumatismo de Vasos Sangüíneos ao Nível do Quadril e da Coxa 
+ Traumatismo de Músculo e de Tendão ao Nível do Quadril e da Coxa 
+ Lesão Por Esmagamento do Quadril e da Coxa 
+ Amputação Traumática do Quadril e da Coxa 
+ Outros Traumatismos e os Não Especificados do Quadril e da Coxa 
+ Traumatismo Superficial da Perna 
+ Ferimento da Perna 
+ Fratura da Perna, Incluindo Tornozelo 
+ Luxação, Entorse e Distensão Das Articulações e Dos Ligamentos do Joelho 
+ Traumatismo de Nervos Periféricos da Perna 
+ Traumatismo de Vasos Sangüíneos da Perna 
+ Traumatismos de Músculo e de Tendão ao Nível da Perna 
+ Traumatismo Por Esmagamento da Perna 
+ Amputação Traumática da Perna 
+ Outros Traumatismos e os Não Especificados da Perna 
+ Traumatismo Superficial do Tornozelo e do pé 
+ Ferimentos do Tornozelo e do pé 
+ Fratura do pé (exceto do Tornozelo) 
+ Luxação, Entorse e Distensão Das Articulações e Dos Ligamentos ao Nível do Tornozelo e do pé 
+ Traumatismo Dos Nervos ao Nível do Tornozelo e do pé 
+ Traumatismo de Vasos Sangüíneos ao Nível do Tornozelo e do pé 
+ Traumatismos do Músculo e Tendão ao Nível do Tornozelo e do pé 
+ Lesão Por Esmagamento do Tornozelo e do pé 
+ Amputação Traumática do Tornozelo e do pé 
+ Outros Traumatismos e os Não Especificados do Tornozelo e do pé 
+ Traumatismos Superficiais Envolvendo Múltiplas Regiões do Corpo 
+ Ferimentos Envolvendo Múltiplas Regiões do Corpo 
+ Fraturas Envolvendo Múltiplas Regiões do Corpo 
+ Luxações, Entorses e Distensões Envolvendo Regiões Múltiplas do Corpo 
+ Traumatismos Por Esmagamento Envolvendo Múltiplas Regiões do Corpo 
+ Amputações Traumáticas Envolvendo Múltiplas Regiões do Corpo 
+ Outros Traumatismos Envolvendo Regiões Múltiplas do Corpo, Não Classificados em Outra Parte 
+ Traumatismos Múltiplos Não Especificados 
+ Fratura da Coluna, Nível Não Especificado 
+ Outros Traumatismos de Coluna e Tronco, Nível Não Especificado 
+ Fratura do Membro Superior, Nível Não Especificado 
+ Outros Traumatismos de Membro Superior, Nível Não Especificado 
+ Fratura do Membro Inferior, Nível Não Especificado 
+ Outros Traumatismos de Membro Inferior, Nível Não Especificado 
+ Traumatismo de Região Não Especificada do Corpo 
+ Corpo Estranho na Parte Externa do Olho 
+ Corpo Estranho no Ouvido 
+ Corpo Estranho no Trato Respiratório 
+ Corpo Estranho no Aparelho Digestivo 
+ Corpo Estranho no Trato Geniturinário 
+ Queimadura e Corrosão da Cabeça e Pescoço 
+ Queimadura e Corrosão do Tronco 
+ Queimadura e Corrosão do Ombro e Membro Superior, Exceto Punho e Mão 
+ Queimadura e Corrosão do Punho e da Mão 
+ Queimadura e Corrosão do Quadril e Membro Inferior, Exceto Tornozelo e do pé 
+ Queimadura e Corrosão do Tornozelo e do pé 
+ Queimadura e Corrosão Limitadas ao Olho e Seus Anexos 
+ Queimadura e Corrosão do Trato Respiratório 
+ Queimadura e Corrosão de Outros Órgãos Internos 
+ Queimaduras e Corrosões de Múltiplas Regiões do Corpo 
+ Queimadura e Corrosão, Parte Não Especificada do Corpo 
+ Queimaduras Classificadas Segundo a Extensão da Superfície Corporal Atingida 
+ Corrosões Classificadas Segundo a Extensão da Superfície Corporal Atingida 
+ Geladura Superficial 
+ Geladura Com Necrose de Tecidos 
+ Geladura de Múltiplas Partes do Corpo e Das Não Especificadas 
+ Intoxicação Por Antibióticos Sistêmicos 
+ Intoxicação Por Outras Substâncias Antiinfecciosas ou Antiparasitárias Sistêmicas 
+ Intoxicação Por Hormônios, Seus Substitutos Sintéticos e Seus Antagonistas Não Classificados em Outra Parte 
+ Intoxicação Por Analgésicos, Antipiréticos e Anti-reumáticos Não-opiáceos 
+ Intoxicação Por Narcóticos e Psicodislépticos (alucinógenos) 
+ Intoxicação Por Anestésicos e Gases Terapêuticos 
+ Intoxicação Por Antiepilépticos, Sedativos-hipnóticos e Antiparkinsonianos 
+ Intoxicação Por Drogas Psicotrópicas Não Classificadas em Outra Parte 
+ Intoxicação Por Drogas Que Afetam Principalmente o Sistema Nervoso Autônomo 
+ Intoxicação Por Substâncias de Ação Essencialmente Sistêmica e Substâncias Hematológicas, Não Classificadas em Outra Parte 
+ Intoxicação Por Substâncias Que Atuam Primariamente Sobre o Aparelho Circulatório 
+ Intoxicação Por Substâncias Que Atuam Primariamente Sobre o Aparelho Gastrointestinal 
+ Intoxicação Por Substâncias Que Atuam Primariamente Sobre os Músculos Lisos e Esqueléticos e Sobre o Aparelho Respiratório 
+ Intoxicação Por Substâncias de Uso Tópico Que Atuam Primariamente Sobre a Pele e as Mucosas e Por Medicamentos Utilizados em Oftalmologia, Otorrinolaringologia e Odontologia 
+ Intoxicação Por Diuréticos e Outras Drogas, Medicamentos e Substâncias Biológicas e as Não Especificadas 
+ Efeito Tóxico do Álcool 
+ Efeito Tóxico de Solventes Orgânicos 
+ Efeito Tóxico de Derivados Halogênicos de Hidrocarbonetos Alifáticos e Aromáticos 
+ Efeito Tóxico de Corrosivos 
+ Efeito Tóxico de Sabões e Detergentes 
+ Efeito Tóxico de Metais 
+ Efeito Tóxico de Outras Substâncias Inorgânicas 
+ Efeito Tóxico do Monóxido de Carbono 
+ Efeito Tóxico de Outros Gases, Fumaças e Vapores 
+ Efeito Tóxico de Pesticidas 
+ Efeito Tóxico de Substâncias Nocivas Consumidas Como Fruto do Mar 
+ Efeito Tóxico de Outras Substâncias Nocivas Ingeridas Como Alimento 
+ Efeito Tóxico de Contato Com Animais Venenosos 
+ Efeito Tóxico da Aflatoxina e de Outras Micotoxinas Contaminantes de Alimentos 
+ Efeito Tóxico de Outras Substâncias e as Não Especificadas 
+ Efeitos Não Especificados de Radiação 
+ Efeitos do Calor e da Luz 
+ Hipotermia 
+ Outros Efeitos da Temperatura Reduzida 
+ Efeitos da Pressão Atmosférica e da Pressão da Água 
+ Asfixia 
+ Efeitos de Outras Privações 
+ Síndromes de Maus Tratos 
+ Efeitos de Outras Causas Externas 
+ Efeitos Adversos Não Classificados em Outra Parte 
+ Algumas Complicações Precoces Dos Traumatismos Não Classificadas em Outra Parte 
+ Complicações Conseqüentes à Infusão, Transfusão ou Injeção Terapêutica 
+ Complicações de Procedimentos Não Classificadas em Outra Parte 
+ Complicações de Dispositivos Protéticos, Implantes e Enxertos Cardíacos e Vasculares 
+ Complicações de Dispositivos Protéticos, Implantes e Enxertos Geniturinários Internos 
+ Complicações de Dispositivos Protéticos, Implantes e Enxertos Ortopédicos Internos 
+ Complicações de Outros Dispositivos Protéticos, Implantes e Enxertos Internos 
+ Falha e Rejeição de Órgãos e Tecidos Transplantados 
+ Complicações Próprias de Reimplante e Amputação 
+ Outras Complicações de Cuidados Médicos e Cirúrgicos Não Classificadas em Outra Parte 
+ Seqüelas de Traumatismo da Cabeça 
+ Seqüelas de Traumatismos do Pescoço e do Tronco 
+ Seqüelas de Traumatismos do Membro Superior 
+ Seqüelas de Traumatismos do Membro Inferior 
+ Seqüelas de Traumatismos Envolvendo Múltiplas Regiões do Corpo e as Não Especificadas 
+ Seqüelas de Queimaduras, Corrosões e Geladuras 
+ Seqüelas de Intoxicação Por Drogas, Medicamentos e Substâncias Biológicas 
+ Seqüelas de Efeitos Tóxicos de Substâncias de Origem Predominantemente Não-medicinal 
+ Seqüelas de Outros Efeitos de Causas Externas e Dos Não Especificados 
+ Síndrome Respiratória Aguda Grave (severe Acute Respiratory Syndrome SARS) 
+ Agente Resistente à Penicilina e Antibióticos Relacionados 
+ Agente Resistente à Vancomicina e Antibióticos Relacionados 
+ Agente Resistente a Múltiplos Antibióticos 
+ Agente Resistente a Outros Antibióticos e a Antibióticos Não Especificados 
+ CID 10ª Revisão Não Disponível 
+ Pedestre Traumatizado em Colisão Com um Veículo a Pedal 
+ Pedestre Traumatizado em Colisão Com um Veículo a Motor de Duas ou Três Rodas 
+ "Pedestre Traumatizado em Colisão Com um Automóvel (carro), ""pick Up"" ou Caminhonete" 
+ Pedestre Traumatizado em Colisão Com um Veículo de Transporte Pesado ou Com um Ônibus 
+ Pedestre Traumatizado em Colisão Com Trem (comboio) ou um Veículo Ferroviário 
+ Pedestre Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Pedestre Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Ciclista Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ciclista Traumatizado em Colisão Com Outro Veículo a Pedal 
+ Ciclista Traumatizado em Colisão Com um Veículo a Motor de Duas ou Três Rodas 
+ "Ciclista Traumatizado em Colisão Com um Automóvel, ""pick Up"" ou Caminhonete" 
+ Ciclista Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Ciclista Traumatizado em Colisão Com um Trem ou um Veículo Ferroviário 
+ Ciclista Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Ciclista Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ciclista Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ciclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Motociclista Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Motociclista Traumatizado em Colisão Com um Veículo a Pedal 
+ Motociclista Traumatizado em Colisão Com um Veículo a Motor de Duas ou Três Rodas 
+ "Motociclista Traumatizado em Colisão Com um Automóvel (carro), ""pick Up"" ou Caminhonete" 
+ Motociclista Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Motociclista Traumatizado em Colisão Com um Trem ou um Veículo Ferroviário 
+ Motociclista Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Motociclista Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Motociclista Traumatizado em um Acidente de Transporte Sem Colisão 
+ Motociclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Veículo a Pedal 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com Outro Veículo a Motor de Duas ou Três Rodas 
+ "Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Automóvel, ""pick Up"" ou Caminhonete" 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Trem (comboio) ou um Veículo Ferroviário 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Ocupante de um Triciclo Motorizado Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ocupante de um Triciclo Motorizado Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ocupante de um Triciclo Motorizado Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Veículo a Pedal 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com Outro Veículo a Motor de Duas ou Três Rodas 
+ "Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Automóvel (carro), ""pick Up"" ou Caminhonete" 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Trem (comboio) ou um Veículo Ferroviário 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Ocupante de um Automóvel (carro) Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ocupante de um Automóvel (carro) Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ocupante de um Automóvel (carro) Traumatizado em Outro Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Veículo a Pedal 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com Veículo a Motor de Duas ou Três Rodas 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Automóvel (carro) ou Uma Caminhonete 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Trem (comboio) ou Veículo Ferroviário 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Ocupante de Uma Caminhonete Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ocupante de Uma Caminhonete Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ocupante de Uma Caminhonete Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Veículo a Pedal 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Veículo a Motor de Duas ou Três Rodas 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Automóvel (carro) ou Uma Caminhonete 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Outro Veículo de Transporte Pesado ou um Ônibus 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Trem (comboio) ou um Veículo Ferroviário 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Outro Veículo Não-motorizado 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ocupante de um Veículo de Transporte Pesado Traumatizado em Outros Acidentes de Transporte Não Especificados 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Pedestre ou um Animal 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Veículo a Pedal 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Outro Veículo a Motor de Duas ou Três Rodas 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Automóvel (carro) ou Uma Caminhonete 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Veículo de Transporte Pesado ou um Ônibus 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Trem (comboio) ou um Veículo Ferroviário 
+ Ocupante de um Ônibus Traumatizado em Colisão Com Outro Veículo Não-motorizado 
+ Ocupante de um Ônibus Traumatizado em Colisão Com um Objeto Fixo ou Parado 
+ Ocupante de um Ônibus Traumatizado em um Acidente de Transporte Sem Colisão 
+ Ocupante de um Ônibus Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte Não Especificados 
+ Pessoa Montada em Animal ou Ocupante de um Veículo a Tração Animal Traumatizado em um Acidente de Transporte 
+ Ocupante de um Trem (comboio) ou um Veículo Ferroviário Traumatizado em um Acidente de Transporte 
+ Ocupante de um Bonde (carro Elétrico) Traumatizado em um Acidente de Transporte 
+ Ocupante de um Veículo Especial a Motor Usado Principalmente em Áreas Industriais Traumatizado em um Acidente de Transporte 
+ Ocupante de um Veículo Especial a Motor de Uso Essencialmente Agrícola Traumatizado em um Acidente de Transporte 
+ Ocupante de um Veículo a Motor Especial de Construções Traumatizado em um Acidente de Transporte 
+ Ocupante de um Veículo Especial Para Qualquer Terreno ou de Outro Veículo a Motor Projetado Essencialmente Para Uso Não em Via Pública, Traumatizado em um Acidente de Transporte 
+ Acidente de Trânsito de Tipo Especificado, Mas Sendo Desconhecido o Modo de Transporte da Vítima 
+ Acidente Não-de-trânsito de Tipo Especificado, Mas Sendo Desconhecido o Modo de Transporte da Vítima 
+ Acidente Com um Veículo a Motor ou Não-motorizado, Tipo(s) de Veículo(s) Não Especificado(s) 
+ Acidente Com Embarcação Causando Afogamento e Submersão 
+ Acidente Com Embarcação Causando Outro Tipo de Traumatismo 
+ Afogamento e Submersão Relacionados Com Transporte Por Água Sem Acidente Com a Embarcação 
+ Acidente a Bordo de Uma Embarcação, Sem Acidente da Embarcação e Não Causando Afogamento ou Submersão 
+ Outros Acidentes de Transporte Por Água e os Não Especificados 
+ Acidente de Aeronave a Motor Causando Traumatismo ao Ocupante 
+ Acidente de Uma Aeronave Sem Motor Causando Traumatismo a Ocupante 
+ Outros Acidentes Especificados de Transporte Aéreo 
+ Outros Acidentes de Transporte Especificados 
+ Acidente de Transporte Não Especificado 
+ Queda no Mesmo Nível Envolvendo Gelo e Neve 
+ Queda no Mesmo Nível Por Escorregão, Tropeção ou Passos em Falsos (traspés) 
+ Queda Envolvendo Patins de Rodas ou Para Gelo, Esqui ou Pranchas de Rodas 
+ Outras Quedas no Mesmo Nível Por Colisão Com ou Empurrão Por Outra Pessoa 
+ Queda, Enquanto Estava Sendo Carregado ou Apoiado Por Outra(s) Pessoa(s) 
+ Queda Envolvendo Uma Cadeira de Rodas 
+ Queda de um Leito 
+ Queda de Uma Cadeira 
+ Queda de Outro Tipo de Mobília 
+ "Queda Envolvendo Equipamento de ""playground""" 
+ Queda em ou de Escadas ou Degraus 
+ Queda em ou de Escadas de Mão 
+ Queda em ou de um Andaime 
+ Queda de ou Para Fora de Edifícios ou Outras Estruturas 
+ Queda de Árvore 
+ Queda de Penhasco 
+ Mergulho ou Pulo na Água Causando Outro Traumatismo Que Não Afogamento ou Submersão 
+ Outras Quedas de um Nível a Outro 
+ Outras Quedas no Mesmo Nível 
+ Queda Sem Especificação 
+ Impacto Causado Por Objeto Lançado, Projetado ou em Queda 
+ Impacto Acidental Ativo ou Passivo Causado Por Equipamento Esportivo 
+ Impacto Acidental Ativo ou Passivo Causado Por Outros Objetos 
+ Apertado, Colhido, Comprimido ou Esmagado Dentro de ou Entre Objetos 
+ Contato Com Elevadores e Instrumentos de Transmissão, Não Classificados em Outra Parte 
+ Contato Com Vidro Cortante 
+ Contato Com Faca, Espada e Punhal 
+ Contato Com Ferramentas Manuais Sem Motor 
+ Contato Com Segadeira Motorizada Para Cortar ou Aparar a Grama 
+ Contato Com Outros Utensílios Manuais e Aparelhos Domésticos Equipados Com Motor 
+ Contato Com Maquinaria Agrícola 
+ Contato Com Outras Máquinas e Com as Não Especificadas 
+ Projétil de Revólver 
+ Rifle, Espingarda e Armas de Fogo de Maior Tamanho 
+ Projéteis de Outras Armas de Fogo e Das Não Especificadas 
+ Explosão ou Ruptura de Caldeira 
+ Explosão ou Ruptura de Cilindro de Gás 
+ Explosão ou Ruptura de Pneumático, Tubulação ou Mangueira, Pressurizados 
+ Explosão ou Ruptura de Outros Aparelhos Pressurizados Especificados 
+ Queima de Fogos de Artifício 
+ Explosão de Outros Materiais 
+ Exposição a um Jato de Alta Pressão 
+ Exposição ao Ruído 
+ Exposição à Vibração 
+ Penetração de Corpo Estranho no ou Através de Olho ou Orifício Natural 
+ Penetração de Corpo ou Objeto Estranho Através da Pele 
+ Contato Com Agulha Hipodérmica 
+ Exposição a Outras Forças Mecânicas Inanimadas e às Não Especificadas 
+ Golpe, Pancada, Pontapé, Mordedura ou Escoriação Infligidos Por Outra Pessoa 
+ Colisão Entre Duas Pessoas 
+ Esmagado, Empurrado ou Pisoteado Por Multidão ou Debandada em Massa de Pessoas 
+ Mordedura de Rato 
+ Mordedura ou Golpe Provocado Por Cão 
+ Mordedura ou Golpe Provocado Por Outros Animais Mamíferos 
+ Contato Com Animais Marinhos 
+ Mordeduras e Picadas de Inseto e de Outros Artrópodes, Não-venenosos 
+ Mordedura ou Golpe Provocado Por Crocodilo ou Aligátor 
+ Mordedura ou Esmagamento Provocado Por Outros Répteis 
+ Contato Com Espinhos de Plantas ou Com Folhas Aguçadas 
+ Exposição a Outras Forças Mecânicas Animadas e às Não Especificadas 
+ Afogamento e Submersão Durante Banho em Banheira 
+ Afogamento e Submersão Consecutiva a Queda Dentro de Uma Banheira 
+ Afogamento e Submersão em Piscina 
+ Afogamento e Submersão Conseqüente a Queda Dentro de Uma Piscina 
+ Afogamento e Submersão em Águas Naturais 
+ Afogamento e Submersão Conseqüentes a Queda Dentro de Águas Naturais 
+ Outros Afogamentos e Submersão Especificados 
+ Afogamento e Submersão Não Especificados 
+ Sufocação e Estrangulamento Acidental na Cama 
+ Outro Enforcamento e Estrangulamento Acidental 
+ Risco a Respiração Devido a Desmoronamento, Queda de Terra e de Outras Substâncias 
+ Inalação do Conteúdo Gástrico 
+ Inalação e Ingestão de Alimentos Causando Obstrução do Trato Respiratório 
+ Inalação e Ingestão de Outros Objetos Causando Obstrução do Trato Respiratório 
+ Confinado ou Aprisionado em um Ambiente Pobre em Oxigênio 
+ Outros Riscos Especificados à Respiração 
+ Riscos Não Especificados à Respiração 
+ Exposição a Linhas de Transmissão de Corrente Elétrica 
+ Exposição a Outra Corrente Elétrica Especificada 
+ Exposição a Corrente Elétrica Não Especificada 
+ Exposição a Radiação Ionizante 
+ Exposição a Fontes Luminosas Artificiais Visíveis ou à Luz Ultravioleta 
+ Exposição a Outros Tipos de Radiação Não-ionizante 
+ Exposição a Tipo Não Especificado de Radiação 
+ Exposição a um Calor Excessivo de Origem Artificial 
+ Exposição a um Frio Excessivo de Origem Artificial 
+ Exposição a Alta, Baixa e a Variações da Pressão Atmosférica 
+ Exposição a Outros Fatores Ambientais Artificiais e Aos Não Especificados 
+ Exposição a Fogo Não-controlado em um Edifício ou Outro Tipo de Construção 
+ Exposição a Fogo Não-controlado Fora de um Edifício ou de Outro Tipo de Construção 
+ Exposição a Fogo Controlado em um Edifício ou Outro Tipo de Construção 
+ Exposição a Fogo Controlado Fora de um Edifício ou de Outro Tipo de Construção 
+ Exposição a Combustão de Substância Muito Inflamável 
+ Exposição a Combustão de Roupa de Dormir 
+ Exposição a Combustão de Outro Tipo de Roupa ou de Acessórios 
+ Exposição a Outro Tipo Especificado de Fumaça, Fogo ou Chamas 
+ Exposição a Tipo Não Especificado de Fumaça, Fogo ou Chamas 
+ Contato Com Bebidas, Alimentos, Gordura e Óleo de Cozinha Quentes 
+ Contato Com Água Corrente Quente de Torneira 
+ Contato Com Outros Líquidos Quentes 
+ Contato Com Vapor D''água e Com Vapores Quentes 
+ Contato Com ar e Gases Quentes 
+ Contato Com Aparelhos Domésticos Quentes 
+ Contato Com Aquecedores, Radiadores e Tubulação 
+ Contato Com Motores, Máquinas e Ferramentas Quentes 
+ Contato Com Outros Metais Quentes 
+ Contato Com Outras Fontes de Calor ou Com Substâncias Quentes Não Especificados 
+ Contato Com Serpentes e Lagartos Venenosos 
+ Contato Com Aranhas Venenosas 
+ Contato Com Escorpiões 
+ Contato Com Abelhas, Vespas e Vespões 
+ Contato Com Centopéias e Miriápodes Venenosas (tropicais) 
+ Contato Com Outros Artrópodes Venenosos 
+ Contato Com Animais e Plantas Marinhos Venenosos 
+ Contato Com Outros Animais Venenosos Especificados 
+ Contato Com Outras Plantas Venenosas Especificadas 
+ Contato Com Animais ou Plantas Venenosos, Sem Especificação 
+ Exposição a Calor Natural Excessivo 
+ Exposição a Frio Natural Excessivo 
+ Exposição à Luz Solar 
+ Vítima de Raio 
+ Vítima de Terremoto 
+ Vítima de Erupção Vulcânica 
+ Vítima de Avalanche, Desabamento de Terra e Outros Movimentos da Superfície Terrestre 
+ Vítima de Tempestade Cataclísmica 
+ Vítima de Inundação 
+ Exposição a Outras Forças da Natureza e às Não Especificadas 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Analgésicos, Antipiréticos e Anti-reumáticos, Não-opiáceos 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Anticonvulsivantes (antiepilépticos), Sedativos, Hipnóticos, Antiparkinsonianos e Psicotrópicos Não Classificadas em Outra Parte 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Narcóticos e Psicodislépticos (alucinógenos) Não Classificados em Outra Parte 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Outras Substâncias Farmacológicas de Ação Sobre o Sistema Nervoso Autônomo 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Outras Drogas, Medicamentos e Substâncias Biológicas Não Especificadas 
+ Envenenamento (intoxicação) Acidental Por e Exposição ao Álcool 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Solventes Orgânicos e Hidrocarbonetos Halogenados e Seus Vapores 
+ Intoxicação Acidental Por e Exposição a Outros Gases e Vapores 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Pesticidas 
+ Envenenamento (intoxicação) Acidental Por e Exposição a Outras Substâncias Químicas Nocivas e às Não Especificadas 
+ Excesso de Exercícios e Movimentos Vigorosos ou Repetitivos 
+ Viagem e Movimento 
+ Estadia Prolongada em Ambiente Agravitacional 
+ Falta de Alimento 
+ Falta de Água 
+ Privação Não Especificada 
+ Exposição a Outros Fatores Especificados 
+ Exposição a Fatores Não Especificados 
+ Auto-intoxicação Por e Exposição, Intencional, a Analgésicos, Antipiréticos e Anti-reumáticos, Não-opiáceos 
+ Auto-intoxicação Por e Exposição, Intencional, a Drogas Anticonvulsivantes (antiepilépticos) Sedativos, Hipnóticos, Antiparkinsonianos e Psicotrópicos Não Classificados em Outra Parte 
+ Auto-intoxicação Por e Exposição, Intencional, a Narcóticos e Psicodislépticos (alucinógenos) Não Classificados em Outra Parte 
+ Auto-intoxicação Por e Exposição, Intencional, a Outras Substâncias Farmacológicas de Ação Sobre o Sistema Nervoso Autônomo 
+ Auto-intoxicação Por e Exposição, Intencional, a Outras Drogas, Medicamentos e Substâncias Biológicas e às Não Especificadas 
+ Auto-intoxicação Voluntária Por Álcool 
+ Auto-intoxicação Intencional Por Solventes Orgânicos, Hidrocarbonetos Halogenados e Seus Vapores 
+ Auto-intoxicação Intencional Por Outros Gases e Vapores 
+ Auto-intoxicação Por e Exposição, Intencional, a Pesticidas 
+ Auto-intoxicação Por e Exposição, Intencional, a Outros Produtos Químicos e Substâncias Nocivas Não Especificadas 
+ Lesão Autoprovocada Intencionalmente Por Enforcamento, Estrangulamento e Sufocação 
+ Lesão Autoprovocada Intencionalmente Por Afogamento e Submersão 
+ Lesão Autoprovocada Intencionalmente Por Disparo de Arma de Fogo de Mão 
+ Lesão Autoprovocada Intencionalmente Por Disparo de Espingarda, Carabina, ou Arma de Fogo de Maior Calibre 
+ Lesão Autoprovocada Intencionalmente Por Disparo de Outra Arma de Fogo e de Arma de Fogo Não Especificada 
+ Lesão Autoprovocada Intencionalmente Por Dispositivos Explosivos 
+ Lesão Autoprovocada Intencionalmente Pela Fumaça, Pelo Fogo e Por Chamas 
+ Lesão Autoprovocada Intencionalmente Por Vapor de Água, Gases ou Objetos Quentes 
+ Lesão Autoprovocada Intencionalmente Por Objeto Cortante ou Penetrante 
+ Lesão Autoprovocada Intencionalmente Por Objeto Contundente 
+ Lesão Autoprovocada Intencionalmente Por Precipitação de um Lugar Elevado 
+ Lesão Autoprovocada Intencionalmente Por Precipitação ou Permanência Diante de um Objeto em Movimento 
+ Lesão Autoprovocada Intencionalmente Por Impacto de um Veículo a Motor 
+ Lesão Autoprovocada Intencionalmente Por Outros Meios Especificados 
+ Lesão Autoprovocada Intencionalmente Por Meios Não Especificados 
+ Agressão Por Meio de Drogas, Medicamentos e Substâncias Biológicas 
+ Agressão Por Meio de Substâncias Corrosivas 
+ Agressão Por Pesticidas 
+ Agressão Por Meio de Gases e Vapores 
+ Agressão Por Meio de Outros Produtos Químicos e Substâncias Nocivas Especificados 
+ Agressão Por Meio de Produtos Químicos e Substâncias Nocivas Não Especificados 
+ Agressão Por Meio de Enforcamento, Estrangulamento e Sufocação 
+ Agressão Por Meio de Afogamento e Submersão 
+ Agressão Por Meio de Disparo de Arma de Fogo de Mão 
+ Agressão Por Meio de Disparo de Espingarda, Carabina ou Arma de Fogo de Maior Calibre 
+ Agressão Por Meio de Disparo de Outra Arma de Fogo ou de Arma Não Especificada 
+ Agressão Por Meio de Material Explosivo 
+ Agressão Por Meio de Fumaça, Fogo e Chamas 
+ Agressão Por Meio de Vapor de Água, Gases ou Objetos Quentes 
+ Agressão Por Meio de Objeto Cortante ou Penetrante 
+ Agressão Por Meio de um Objeto Contundente 
+ Agressão Por Meio de Projeção de um Lugar Elevado 
+ Agressão Por Meio de Projeção ou Colocação da Vítima Diante de um Objeto em Movimento 
+ Agressão Por Meio de Impacto de um Veículo a Motor 
+ Agressão Por Meio de Força Corporal 
+ Agressão Sexual Por Meio de Força Física 
+ Negligência e Abandono 
+ Outras Síndromes de Maus Tratos 
+ Agressão Por Outros Meios Especificados 
+ Agressão Por Meios Não Especificados 
+ Envenenamento (intoxicação) Por e Exposição a Analgésicos, Antipiréticos e Anti-reumáticos Não-opiáceos, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Anticonvulsivantes (antiepilépticos), Sedativos, Hipnóticos, Antiparkinsonianos e Psicotrópicos Não Classificados em Outra Parte, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Narcóticos e a Psicodislépticos (alucinógenos) Não Classificados em Outra Parte, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Outras Substâncias Farmacológicas de Ação Sobre o Sistema Nervoso Autônomo, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Outras Drogas, Medicamentos e Substâncias Biológicas e as Não Especificadas, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição ao Álcool, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Solventes Orgânicos e Hidrocarbonetos Halogenados e Seus Vapores, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Outros Gases e Vapores, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Pesticidas, Intenção Não Determinada 
+ Envenenamento (intoxicação) Por e Exposição a Outros Produtos Químicos e Substâncias Nocivas e Aos Não Especificados, Intenção Não Determinada 
+ Enforcamento, Estrangulamento e Sufocação, Intenção Não Determinada 
+ Afogamento e Submersão, Intenção Não Determinada 
+ Disparo de Pistola, Intenção Não Determinada 
+ Disparo de Fuzil, Carabina e Arma de Fogo de Maior Calibre, Intenção Não Determinada 
+ Disparo de Outra Arma de Fogo e de Arma de Fogo Não Especificada, Intenção Não Determinada 
+ Contato Com Material Explosivo, Intenção Não Determinada 
+ Exposição a Fumaça, Fogo e Chamas, Intenção Não Determinada 
+ Exposição a Vapor de Água, Gases ou Objetos Quentes, Intenção Não Determinada 
+ Contato Com Objeto Cortante ou Penetrante, Intenção Não Determinada 
+ Contato Com Objeto Contundente, Intenção Não Determinada 
+ Queda, Salto ou Empurrado de um Lugar Elevado, Intenção Não Determinada 
+ Queda, Permanência ou Corrida Diante de um Objeto em Movimento, Intenção Não Determinada 
+ Impacto de um Veículo a Motor, Intenção Não Determinada 
+ Outros Fatos ou Eventos Especificados, Intenção Não Determinada 
+ Fatos ou Eventos Não Especificados e Intenção Não Determinada 
+ Intervenção Legal 
+ Operações de Guerra 
+ Efeitos Adversos de Antibióticos Sistêmicos 
+ Efeitos Adversos de Outros Antiinfecciosos e Antiparasitários Sistêmicos 
+ Efeitos Adversos de Hormônios e Seus Substitutos Sintéticos e Antagonistas, Não Classificados em Outra Parte 
+ Efeitos Adversos de Substâncias de Ação Primariamente Sistêmica 
+ Efeitos Adversos de Substâncias Farmacológicas Que Atuam Primariamente Sobre os Constituintes do Sangue 
+ Efeitos Adversos de Substâncias Analgésicas, Antipiréticas e Antiinflamatórias 
+ Efeitos Adversos de Drogas Anticonvulsivantes (antiepilépticas) e Antiparkinsonianas 
+ Efeitos Adversos de Sedativos, Hipnóticos e Tranquilizantes (ansiolíticos) 
+ Efeitos Adversos de Anestésicos e Gases Terapêuticos 
+ Efeitos Adversos de Substâncias Psicotrópicas, Não Classificadas em Outra Parte 
+ Efeitos Adversos de Estimulantes do Sistema Nervoso Central, Não Classificados em Outra Parte 
+ Efeitos Adversos de Drogas Que Atuam Primariamente Sobre o Sistema Nervoso Autônomo 
+ Efeitos Adversos de Substâncias Que Atuam Primariamente Sobre o Aparelho Cardiovascular 
+ Efeitos Adversos de Substâncias Que Atuam Primariamente Sobre o Aparelho Gastrointestinal 
+ Efeitos Adversos de Substâncias Que Atuam Primariamente Sobre o Metabolismo da Água, Dos Sais Minerais e do Ácido Úrico 
+ Efeitos Adversos de Substâncias Que Atuam Primariamente Sobre os Músculos Lisos e Esqueléticos e Sobre o Aparelho Respiratório 
+ Efeitos Adversos de Substâncias de Uso Tópico Que Atuam Primariamente Sobre a Pele e as Membranas Mucosas e Drogas de Uso Oftalmológico, Otorrinolaringológico e Dentário 
+ Efeitos Adversos de Outras Drogas e Medicamentos e as Não Especificadas 
+ Efeitos Adversos de Vacinas Bacterianas 
+ Efeitos Adversos de Outras Vacinas e Substâncias Biológicas e as Não Especificadas 
+ Corte, Punção, Perfuração ou Hemorragia Acidentais Durante a Prestação de Cuidados Médicos ou Cirúrgicos 
+ Objeto Estranho Deixado Acidentalmente no Corpo Durante a Prestação de Cuidados Cirúrgicos e Médicos 
+ Assepsia Insuficiente Durante a Prestação de Cuidados Cirúrgicos e Médicos 
+ Erros de Dosagem Durante a Prestação de Cuidados Médicos e Cirúrgicos 
+ Medicamentos ou Substâncias Biológicas Contaminados 
+ Outros Acidentes Durante a Prestação de Cuidados Médicos e Cirúrgicos 
+ Não Administração de Cuidado Médico e Cirúrgico 
+ Acidente Não Especificado Durante a Prestação de Cuidado Médico e Cirúrgico 
+ Dispositivos (aparelhos) de Anestesiologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Cardiovasculares, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Otorrinolaringologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Usados em Gastroenterologia e em Urologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Gerais de Uso Hospitalar ou Pessoal, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Neurologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Obstetrícia e em Ginecologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Oftalmologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Radiologia, Associados a Incidentes Adversos 
+ Dispositivos (aparelhos) Ortopédicos, Associado a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Medicina Física (fisiatria), Associado a Incidentes Adversos 
+ Dispositivos (aparelhos) Utilizados em Cirurgia Geral ou Cirurgia Plástica, Associados a Incidente Adversos 
+ Outros Dispositivos (aparelhos) Associados a Incidentes Adversos e os Não Especificados 
+ Reação Anormal em Paciente ou Complicação Tardia, Causadas Por Intervenção Cirúrgica e Por Outros Atos Cirúrgicos, Sem Menção de Acidente Durante a Intervenção 
+ Reação Anormal em Paciente ou Complicação Tardia, Causadas Por Outros Procedimentos Médicos, Sem Menção de Acidente Durante o Procedimento 
+ Seqüelas de Acidentes de Transporte 
+ Seqüelas de Outros Acidentes 
+ Seqüelas de Uma Lesão Autoprovocada Intencionalmente, de Agressão ou de um Fato Cuja Intenção é Indeterminada 
+ Seqüelas de Cuidado Médico ou Cirúrgico Considerados Como Uma Causa Externa 
+ Seqüelas de Outras Causas Externas 
+ Evidência de Alcoolismo Determinada Por Taxas de Alcoolemia 
+ Evidência de Alcoolismo Determinada Pelo Nível da Intoxicação 
+ Circunstância Relativa as Condições Nosocomiais (hospitalares) 
+ Circunstância Relativa às Condições de Trabalho 
+ Circunstâncias Relativas a Condições de Poluição Ambiental 
+ Circunstâncias Relativas a Condições do Modo de Vida 
+ Exame Geral e Investigação de Pessoas Sem Queixas ou Diagnóstico Relatado 
+ Outros Exames e Investigações Especiais de Pessoas Sem Queixa ou Diagnóstico Relatado 
+ Exame Médico e Consulta Com Finalidades Administrativas 
+ Observação e Avaliação Médica Por Doenças e Afecções Suspeitas 
+ Exame e Observação Por Outras Razões 
+ Exame de Seguimento Após Tratamento Por Neoplasia Maligna 
+ Exame de Seguimento Após Tratamento de Outras Afecções Que Não Neoplasias Malignas 
+ "Exame Geral de Rotina (""check Up"") de Uma Subpopulação Definida" 
+ "Exame Especial de Rastreamento (""screening"") de Doenças Infecciosas e Parasitárias" 
+ "Exame Especial de Rastreamento (""screening"") de Neoplasias" 
+ "Exame Especial de Rastreamento (""screening"") de Outros Transtornos e Doenças" 
+ Contato Com e Exposição a Doenças Transmissíveis 
+ Estado de Infecção Assintomática Pelo Vírus da Imunodeficiência Humana (HIV) 
+ Portador de Doença Infecciosa 
+ Necessidade de Imunização Contra Uma Única Doença Bacteriana 
+ Necessidade de Imunização Contra Algumas Doenças Virais Únicas 
+ Necessidade de Imunização Contra Outras Doenças Virais Únicas 
+ Necessidade de Imunização Contra Outras Doenças Infecciosas Únicas 
+ Necessidade de Imunização Associada Contra Combinações de Doenças Infecciosas 
+ Imunização Não Realizada 
+ Necessidade de Outras Medidas Profiláticas 
+ Anticoncepção 
+ Medidas de Procriação 
+ Exame ou Teste de Gravidez 
+ Gravidez Como Achado Casual 
+ Supervisão de Gravidez Normal 
+ Supervisão de Gravidez de Alto Risco 
+ "Rastreamento (""screening"") Pré-natal" 
+ Resultado do Parto 
+ Nascidos Vivos (nado-vivos) Segundo o Local de Nascimento 
+ Assistência e Exame Pós-natal 
+ Cirurgia Profilática 
+ Procedimentos Para Outros Propósitos Exceto Cuidados de Saúde 
+ Seguimento Envolvendo Cirurgia Plástica 
+ Atenção a Orifícios Artificiais 
+ Colocação e Ajustamento de Aparelhos de Prótese Externa 
+ Ajustamento e Manuseio de Dispositivo Implantado 
+ Colocação e Ajustamento de Outros Aparelhos 
+ Outros Cuidados de Seguimento Ortopédico 
+ Outro Seguimento Cirúrgico 
+ Cuidados Envolvendo Diálise 
+ Cuidados Envolvendo o Uso de Procedimentos de Reabilitação 
+ Outros Cuidados Médicos 
+ Doadores de Órgãos e Tecidos 
+ Pessoas em Contato Com Serviços de Saúde Para Procedimentos Específicos Não Realizados 
+ Convalescença 
+ Problemas Relacionados Com a Educação e Com a Alfabetização 
+ Problemas Relacionados Com o Emprego e Com o Desemprego 
+ Exposição Ocupacional a Fatores de Risco 
+ Problemas Relacionados Com o Ambiente Físico 
+ Problemas Relacionados Com a Habitação e Com as Condições Econômicas 
+ Problemas Relacionados Com o Meio Social 
+ Problemas Relacionados Com Eventos Negativos de Vida na Infância 
+ Outros Problemas Relacionados Com a Educação da Criança 
+ Outros Problemas Relacionados Com o Grupo Primário de Apoio, Inclusive Com a Situação Familiar 
+ Problemas Relacionados Com Algumas Outras Circunstâncias Psicossociais 
+ Problemas Relacionados Com Outras Circunstâncias Psicossociais 
+ Aconselhamento Relativo às Atitudes, Comportamento e Orientação em Matéria de Sexualidade 
+ Pessoas em Contato Com os Serviços de Saúde Para Outros Aconselhamentos e Conselho Médico, Não Classificados em Outra Parte 
+ Problemas Relacionados Com o Estilo de Vida 
+ Problemas Relacionados Com a Organização de Seu Modo de Vida 
+ Problemas Relacionados Com a Dependência de Uma Pessoa Que Oferece Cuidados de Saúde 
+ Problemas Relacionados Com as Facilidades Médicas e Outros Cuidados de Saúde 
+ Pessoas em Contato Com os Serviços de Saúde em Outras Circunstâncias 
+ História Familiar de Neoplasia Maligna 
+ História Familiar de Transtornos Mentais e Comportamentais 
+ História Familiar de Algumas Incapacidades e Doenças Crônicas Que Conduzem a Incapacitação 
+ História Familiar de Outros Transtornos Específicos 
+ História Familiar de Outras Afecções 
+ História Pessoal de Neoplasia Maligna 
+ História Pessoal de Algumas Outras Doenças 
+ História Pessoal de Outras Doenças e Afecções 
+ História Pessoal de Alergia a Drogas, Medicamentos e a Substâncias Biológicas 
+ Ausência Adquirida de Membros 
+ Ausência Adquirida de Órgãos Não Classificados em Outra Parte 
+ História Pessoal de Fatores de Risco, Não Classificados em Outra Parte 
+ História Pessoal de Tratamento Médico 
+ Orifícios Artificiais 
+ Órgãos e Tecidos Transplantados 
+ Presença de Implantes e Enxertos Cardíacos e Vasculares 
+ Presença de Outros Implantes Funcionais 
+ Presença de Outros Dispositivos Protéticos 
+ Outros Estados Pós-cirúrgicos 
+ Dependência de Máquinas e Dispositivos Capacitantes, Não Classificados em Outra Parte 
+

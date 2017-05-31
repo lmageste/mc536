@@ -1,0 +1,1 @@
+INSERT INTO gerente (departamento_sigla_gerenciado, funcionario_cpf) SELECT departamento_sigla, cpf FROM funcionario WHERE salario > 19500;

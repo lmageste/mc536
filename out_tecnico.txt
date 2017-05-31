@@ -1,0 +1,1 @@
+INSERT INTO tecnico (funcionario_cpf) SELECT cpf FROM funcionario WHERE formacao = 'Técnico em Equipamentos';
