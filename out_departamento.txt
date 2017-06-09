@@ -1,17 +1,17 @@
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('RECEPCAO', 'Recepcionar pacientes e cuidar dos documentos do hospital', 'Recepção geral hospitalar');
+INSERT INTO departamento (funcao, nome) VALUE ('Recepcionar pacientes e cuidar dos documentos do hospital', 'Recepção geral hospitalar');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('MANUTENCAO', 'Manutenção e compra de equipamentos hospitalares', 'Manutenção geral hospitalar');
+INSERT INTO departamento (funcao, nome) VALUE ('Manutenção e compra de equipamentos hospitalares', 'Manutenção geral hospitalar');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('ENFERMARIA', 'Auxiliar em funções básicas do hospital, como aplicação de anestesias e injeção de soros', 'Enfermaria Geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Auxiliar em funções básicas do hospital, como aplicação de anestesias e injeção de soros', 'Enfermaria Geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('ONCOLOGIA', 'Tratar e diagnosticar pacientes com câncer', 'Oncologia geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Tratar e diagnosticar pacientes com câncer', 'Oncologia geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('OBSTETRIA', 'Cirurgias, operações e auxílio de gestantes', 'Obstetria geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Cirurgias, operações e auxílio de gestantes', 'Obstetria geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('PEDIATRIA', 'Tratamento exclusiva de crianças', 'Pediatria Geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Tratamento exclusiva de crianças', 'Pediatria Geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('NEUROLOGIA', 'Tratamento e diagnóstico de doenças no sistema nervoso', 'Neurologia Geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Tratamento e diagnóstico de doenças no sistema nervoso', 'Neurologia Geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('ORTOPEDIA', 'Tratamento e diagnóstico de doenças nos ossos', 'Ortopedia Geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Tratamento e diagnóstico de doenças nos ossos', 'Ortopedia Geral');
 
-INSERT INTO departamento (sigla, funcao, nome) VALUE ('PSIQUIATRIA', 'Consultas psiquiátricas e receitas de medicamentos para pacientes', 'Psiquiatria Geral');
+INSERT INTO departamento (funcao, nome) VALUE ('Consultas psiquiátricas e receitas de medicamentos para pacientes', 'Psiquiatria Geral');

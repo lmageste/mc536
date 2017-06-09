@@ -1,0 +1,1 @@
+INSERT INTO contra_indicacao (nome) VALUES ("Diabetes”), (“AIDS”), (“Alergia a glútem”), (“Pressão Alta”), (“Gravidez”);

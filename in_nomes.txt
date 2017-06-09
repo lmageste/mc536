@@ -99,7 +99,7 @@ Agatha
 Gabrielly
 Quincas
 Camila
-70
+76
 Ferreira
 Silveira
 Moreira
@@ -170,3 +170,9 @@ da Conceição
 das Neves
 da Barra
 da Penha
+Barroso
+Almeida
+Mageste
+Soares
+do Bairro
+Souza

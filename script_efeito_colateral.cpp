@@ -10,22 +10,22 @@ using namespace std;
 int main () {
     int n;
     scanf(" %d ", &n);
-    vector<string> doenca = vector<string> (n, "");
+    vector<string> tratamento = vector<string> (n, "");
     for (int i = 0; i < n; ++i){
-        getline(cin, doenca[i]);
+        getline(cin, tratamento[i]);
     }
-
+    
     int m;
     scanf(" %d ", &m);
-    vector<string> tratamento = vector<string> (m, "");
+    vector<string> contra = vector<string> (m, "");
     for (int i = 0; i < m; ++i){
-        getline(cin, tratamento[i]);
+        getline(cin, contra[i]);
     }
     
     for(int i=0; i<n; i++){
         for (int j=0; j<m; j++) {
-            if(rand()%8000==0){
-                cout << "INSERT INTO tratamento_trata_doenca (doenca_nome_cientifico, tratamento_nome) VALUE " << "(\"" << doenca[i] << "\", \"" <<tratamento[j] << "\");" << endl;
+            if(rand()%m==0){
+                cout << "INSERT INTO efeito_colateral (contra_indicacao_nome, tratamento_nome) VALUE " << "(\"" << contra[j] << "\", \"" << tratamento[i] << "\");" << endl;
             }
         }
     }
